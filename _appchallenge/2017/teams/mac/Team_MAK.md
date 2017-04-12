@@ -7,7 +7,7 @@ permalink: appchallenge/2017/teams/mac/Team_MAK/
 photo: team.jpg
 appname: Student Commute Ontario 2017
 members:
-  - name: Michelle Kirchin
+  - name: Michele Tsang
     bio: "(left) I'm in my 4th year of Earth and Environmental Science and completing a minor in GIS at McMaster University. I am currently working on an independent thesis project, monitoring land change of the badlands in Italy using remote sensing."
   - name: Anna Kulesza
     bio: "(middle) Passionate for planning and empowering communities, Anna has spent her university career learning the skills to be a resource and a leader in the McMaster Community. Through her roles as Education Coordinator, Event Planner, and President at McMaster she has seen the power of collaboration and community involvement. Working as an Employment Surveyor (City of Hamilton) and volunteering for the Hamilton Street Tree Project (Ontario Public Research Group) she has seen the development of the employment and environment initiatives that Hamilton has implemented, which cultivates her passion for Hamilton.  Anna hopes to become involved in community planning by applying her Honours Geography and Environmental Science Degree, specifically focusing on urban geography, transportation."
