@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div id="home">
+  Welcome to the Esri Canada GIS Centres of Excellence GitHub page.
+
+  This page will feature content that we post to our GitHub repostitory.<br /><br />
+
+  In particular, we use our GitHub account to post entries from teams that compete in our annual App Challenge:
+
+  <ul class="posts">
+    {% assign challenges = site.appchallenge | where:"category", 'challenge' | reverse %}
+    {% for challenge in challenges %}
+      <li><a href="{{ site.baseurl }}{{ challenge.url }}">{{ challenge.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

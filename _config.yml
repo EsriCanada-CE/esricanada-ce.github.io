@@ -1,0 +1,24 @@
+# Setup
+title:        ECCE (on GitHub)
+tagline:      Fostering innovation and excellence in GIS
+baseurl:      ""
+paginate:     1
+githuburl:    https://github.com/EsriCanada-CE
+ghpagesroot:  https://esricanada-ce.github.io
+
+# About/contact
+author:
+  name:       Esri Canada GIS Centres of Excellence
+  url:        https://ecce.esri.ca
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+port: 12349
+
+collections:
+  appchallenge:
+    output: true

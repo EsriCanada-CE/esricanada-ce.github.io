@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% assign team = page %}
+  {% assign teamslug = team.name | replace:' ', '_' | replace:'-', '_' %}
+  {% assign ghroot = site.ghpagesroot | append: '/ecce-app-challenge-' | append: team.year | append: '/' | append: teamslug %}
+  {% assign githubroot = site.githuburl | append: '/ecce-app-challenge-' | append: team.year | append: '/tree/master/' | append: teamslug %}
+  {% assign ghblobroot = site.githuburl | append: '/ecce-app-challenge-' | append: team.year | append: '/blob/master/' | append: teamslug %}
+
+  {% include appchallenge_head.html %}
+
+  <body>
+
+    {% include appchallenge_page-header.html %}
+
+    <section class="main-content">
+
+      <a href="../../../../../" style="font-size:smaller;">Home</a> / <a href="../../../" style="font-size:smaller;">ECCE App Challenge {{ team.year }} Teams</a><hr />
+
+      {% if team.appname %}<h1>App: {{ team.appname }}</h1>{% endif %}
+
+      {{ content }}
+
+      {% assign numdocs = team.docs | size %}
+      {% if numdocs > 0 %}
+        <h3>Documentation</h3>
+        <ul>
+        {% for doc in team.docs %}
+          <li><a target="_blank" href="{% if doc.readme %}{% if doc.ishtml %}{{ ghroot }}/{{ doc.file }}{% else %}{{ githubroot }}{% endif %}{% else %}{% if doc.ismd %}{{ ghblobroot }}{% else %}{{ ghroot }}{% endif %}/docs/{{ doc.file }}{% endif %}">{{ doc.name }}</a>{% if doc.altfile %} | <a target="_blank" href="{{ ghroot }}/docs/{{ doc.altfile }}">{{ doc.altname }}</a>{% endif %}</li>
+        {% endfor %}
+        </ul>
+      {% endif %}
+
+      <h2>Team Members</h2>
+
+      {% if team.photo %}
+      <img style="max-width:100%; display:block; margin:0 auto; clear:both;" src="{{ ghroot }}/images/{{ team.photo }}" />
+      {% endif %}
+
+      {% for member in team.members %}
+      <p style="clear:both;">
+        {% if member.photo != "" %}{% if member.photo != nil %}
+        <img src="{{ ghroot }}/images/{{ member.photo }}" style="max-height:150px; margin:0 .5em .25em 0; float: left;" />
+        {% endif %}{% endif %}
+        <strong>{{ member.name }}</strong>: {{ member.bio }}
+
+      </p>
+      {% endfor %}
+
+      {% include page-footer.html %}
+
+    </section>
+
+  </body>
+</html>

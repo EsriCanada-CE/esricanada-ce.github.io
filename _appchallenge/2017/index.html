@@ -1,0 +1,39 @@
+---
+layout: default
+permalink: appchallenge/2017/
+title: ECCE App Challenge 2017
+category: challenge
+year: 2017
+youtubeplaylist: PLdgq5G0ox73V6kGnruo1oYPy1O0OQU40B
+---
+<a href="../../" style="font-size:smaller;">Home</a><hr />
+<div id="appchallenge">
+  <h1>Meet the teams for the ECCE App Chasllenge 2017</h1>
+    {% assign teams = site.appchallenge | where:"category", "team" | where:"year", 2017 %}
+    {% assign schools = "" | split: "" %}
+
+    {% for team in teams %}
+      {% unless schools contains team.school %}
+        {% assign schools = schools | push: team.school %}
+      {% endunless %}
+    {% endfor %}
+
+    {% for school in schools %}
+      <h3>{{ school }}</h3>
+      <ul>
+      {% assign schoolteams = site.appchallenge | where:"category", "team" | where:"year", 2017  | where:"school", school %}
+      {% for team in schoolteams %}
+        <li><span><a href="{{ team.url | replace:"index.html", "" }}">{{ team.name }}</a></span> |
+          {% assign lastmember = team.members | last %}
+          {% for member in team.members %}
+            {% if member.name == lastmember.name %}
+              {{ member.name }}
+            {% else %}
+              {{ member.name | append: ", " }}
+            {% endif %}
+          {% endfor %}
+        </li>
+      {% endfor %}
+      </ul>
+    {% endfor %}
+</div>
