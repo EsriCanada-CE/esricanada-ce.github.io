@@ -13,9 +13,9 @@ members:
   - name: "Faizaan Naveed"
     bio: "I am a 4th year Geomatics Engineering student at Lassonde School of Engineering, York University. Presently I am working as a research assistant in the Petrie Science and Engineering lab to delineate individual tree crowns in order to identify the spread of the Emerald Ash Borer infestation. As an engineering student, I have proficiencies in software development, surveying, GIS, remote sensing, computer vision, and physical and space geodesy. Having worked in research, I plan on continuing my academic endeavors as a graduate student. In my spare time, I enjoy reading and programming. My non-academic interests include philosophy, economics and sports."
     photo: "faizaan.jpg"
-  - name: "Philip Robbins"
+  - name: "Phillip Robbins"
     bio: "I am Geomatics Engineering Graduate at York University. Presently I am working as a graduate student on research in the field of computer vision and machine learning. My areas of interest include the field of land surveying, GIS, remote sensing, computer vision, software development, and finance. I plan on continuing my carrier in industry in the field of machine learning. In my spare time, I enjoy reading, programming, martial arts, and spending time with my family and friends."
-    photo: "philip.jpg"
+    photo: "phillip.jpg"
 
 school: York University
 videourl: "https://youtu.be/OO4gGmX_SIs"
