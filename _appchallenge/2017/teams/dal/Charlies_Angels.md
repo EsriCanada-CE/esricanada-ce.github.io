@@ -3,7 +3,7 @@ layout: appchallengeteam
 year: 2017
 category: team
 name: Charlie's Angels
-permalink: appchallenge/2017/teams/dal/Charlie's_Angels/
+permalink: appchallenge/2017/teams/dal/Charlies_Angels/
 photo: team.jpg
 appname: CO2 Emissions on Vehicle
 members:
@@ -34,6 +34,9 @@ docs:
 
 Hosted on ArcGIS Online:
 - [http://dalspatial.maps.arcgis.com/apps/webappviewer/index.html?id=f22dd124fcd94ec8bea3561b4916e67e](http://dalspatial.maps.arcgis.com/apps/webappviewer/index.html?id=f22dd124fcd94ec8bea3561b4916e67e){:target="_blank"}
+
+App Hosted on GitHub:
+- [https://esricanada-ce.github.io/ecce-app-challenge-2017/Charlies_Angels/app/](https://esricanada-ce.github.io/ecce-app-challenge-2017/Charlies_Angels/app/){:target="_blank"}
 
 ***
 

@@ -1,7 +1,7 @@
 <section class="page-header">
   {% assign team = page %}
   {% assign challenge = site.appchallenge | where:"category", "challenge" | where:"year", team.year | first %}
-  {% assign teamslug = team.name | replace:' ', '_' | replace:'-', '_' %}
+  {% assign teamslug = team.name | replace:' ', '_' | replace:'-', '_' | replace:"'", '' %}
 
   <h1 class="project-name">{{ team.name }}</h1>
   <h2 class="project-tagline">ECCE App Challenge {{ team.year }} team from {{ team.school }}</h2>

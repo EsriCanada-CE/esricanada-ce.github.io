@@ -34,6 +34,9 @@ docs:
 ---
 
 Hosted on GitHub:
+
+> *Note: an ArcGIS Online organizational/developer account is required to run the "Clock Walk Calculator" analysis tool for drive-time areas*
+
 - [https://esricanada-ce.github.io/ecce-app-challenge-2017/ClockWalk/app/](https://esricanada-ce.github.io/ecce-app-challenge-2017/ClockWalk/app/){:target="_blank"}
 
 ***

@@ -2,7 +2,7 @@
 <html lang="en-us">
 
   {% assign team = page %}
-  {% assign teamslug = team.name | replace:' ', '_' | replace:'-', '_' %}
+  {% assign teamslug = team.name | replace:' ', '_' | replace:'-', '_' | replace:"'", '' %}
   {% assign ghroot = site.ghpagesroot | append: '/ecce-app-challenge-' | append: team.year | append: '/' | append: teamslug %}
   {% assign githubroot = site.githuburl | append: '/ecce-app-challenge-' | append: team.year | append: '/tree/master/' | append: teamslug %}
   {% assign ghblobroot = site.githuburl | append: '/ecce-app-challenge-' | append: team.year | append: '/blob/master/' | append: teamslug %}
