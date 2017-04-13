@@ -20,8 +20,8 @@ school: Dalhousie University
 videourl: "https://youtu.be/v-z9Dwu4dRI"
 
 demo:
-  url: "http://dalspatial.maps.arcgis.com/apps/webappviewer/index.html?id=f22dd124fcd94ec8bea3561b4916e67e"
-  github: no
+  url: "app/"
+  github: yes
 
 docs:
   - name: README.md
