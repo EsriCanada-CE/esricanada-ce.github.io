@@ -43,4 +43,12 @@ Hosted on GitHub:
 
 ### Mission Statement
 
-Our app features 5 different types of vehicles: midsize, fullsize, plussized, compact, and hybrid; all vehicles found and driven within Canada. Using the Greater Toronto Area, our app will be able to allow the user to see the different CO2 emissions emitted from these 5 subcategories when entering a desired start and end location. This is accomplished through a set of calculations that takes the distance multiplied by an average CO2 emittance per that subcategory to allow the user to see how much Kg/m of CO2 they emit.
+The Vancouver Clock Walk fosters sustainable active living through urban exploration.
+
+Our app, is designed to encourage people to go out and explore their city
+through sustainable non-motorized transportation. The app works by showing
+people how far they can walk from their current position based on a set time and
+includes interesting nearby locations. By encouraging people to get outside and
+learn about their community in small manageable stretches of time, our app not
+only promotes active living but demonstrates how easy it is to move around the
+city without motorized transportation.
