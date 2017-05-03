@@ -3,7 +3,7 @@ layout: appchallengeteam
 year: 2017
 category: team
 name: SFU-SAM Lab
-permalink: appchallenge/2017/teams/sfy/SFU_SAM_Lab/
+permalink: appchallenge/2017/teams/sfu/SFU_SAM_Lab/
 photo: team.jpg
 appname: Map2Green
 members:
