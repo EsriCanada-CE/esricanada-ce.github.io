@@ -13,7 +13,7 @@ members:
     bio: "Hi! I’m Justine Abdelshahid (middle) and I am a 4th Year Geomatics Engineering Student at York University. I love music, movies, and surveying! I’m really excited to be a part of this challenge and I hope that I can learn more about GIS and application design through this week!"
   - name: "Benjamin Brunson"
     bio: "My name is Benjamin Brunson (right), and I am currently in my fourth year of Geomatics Engineering at York University. I am fascinated by spatial analysis techniques, and am always looking for learning opportunities."
-
+winner: 1
 school: York University
 videourl: "https://youtu.be/EnC93515cus"
 

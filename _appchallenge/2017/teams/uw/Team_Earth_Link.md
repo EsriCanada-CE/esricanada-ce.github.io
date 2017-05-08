@@ -13,7 +13,7 @@ members:
     bio: "Stephanie (middle) is a 3rd year Geomatics student from Kitchener, Ontario. She enjoys geo-tagging her Instagram photos."
   - name: "Carmen Kong"
     bio: "Carmen (right) is a 3rd year Geography and Environmental Management student Scarborough, Ontario. She enjoys exploring the great outdoors and good puns."
-
+winner: 2
 school: University of Waterloo
 videourl: "https://youtu.be/1O11ED94B_0"
 

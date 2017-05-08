@@ -23,7 +23,7 @@ youtubeplaylist: PLdgq5G0ox73V6kGnruo1oYPy1O0OQU40B
       <ul>
       {% assign schoolteams = site.appchallenge | where:"category", "team" | where:"year", 2017  | where:"school", school %}
       {% for team in schoolteams %}
-        <li><span><a href="{{ team.url | replace:"index.html", "" }}">{{ team.name }}</a></span> |
+        <li><span><a href="{{ team.url | replace:"index.html", "" }}">{{ team.name }}</a></span>{% if team.winner %}<span style="font-weight:bold;"> - {% if team.winner == 1 %}WINNER{% elsif team.winner == 2 %}1st Runner-Up{% elsif team.winner == 3 %}2nd Runner-Up{% endif %}</span>{% endif %} |
           {% assign lastmember = team.members | last %}
           {% for member in team.members %}
             {% if member.name == lastmember.name %}

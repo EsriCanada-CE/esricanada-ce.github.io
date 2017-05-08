@@ -17,6 +17,8 @@
 
       <a href="../../../../../" style="font-size:smaller;">Home</a> / <a href="../../../" style="font-size:smaller;">ECCE App Challenge {{ team.year }} Teams</a><hr />
 
+      {% if team.winner %}<span style="font-weight:bold;">Esri Canada congratulates {{ team.name }}, the {% if team.winner == 1 %}winning team {% elsif team.winner == 2 %}1st Runner-Up {% elsif team.winner == 3 %}2nd Runner-Up {% endif %}of the App Challenge {{team.year}}!</span><hr />{% endif %}
+
       {% if team.appname %}<h1>App: {{ team.appname }}</h1>{% endif %}
 
       {{ content }}
