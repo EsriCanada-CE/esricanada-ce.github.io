@@ -8,7 +8,15 @@ youtubeplaylist: PLdgq5G0ox73V6kGnruo1oYPy1O0OQU40B
 ---
 <a href="../../" style="font-size:smaller;">Home</a><hr />
 <div id="appchallenge">
+  {% assign challenge_ghurl = site.githuburl | append: '/ecce-app-challenge-' | append: page.year %}
+
   <h1>Meet the teams for the ECCE App Challenge 2017</h1>
+  
+  In 2017, a total of 17 teams competed in the App Challenge from schools participating in the ECCE program across Canada.
+  <br /><br />
+  
+  You can view the source code and documentation for all of their submissions in our <a href="{{ challenge_ghurl }}">GitHub repository</a> for the challenge.  Below you will find a profile for each of the participating teams for this year, along with details about the team members and the apps that they created.  Video presentations created by each team, as well as live instances of apps can be viewed from each profile page.
+
     {% assign teams = site.appchallenge | where:"category", "team" | where:"year", 2017 %}
     {% assign schools = "" | split: "" %}
 
