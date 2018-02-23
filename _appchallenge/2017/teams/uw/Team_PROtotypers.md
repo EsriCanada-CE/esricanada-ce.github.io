@@ -18,7 +18,7 @@ members:
     photo: alex.jpg
 
 school: University of Waterloo
-videourl: "https://youtu.be/wlLZv4eBDho"
+videoid: wlLZv4eBDho
 
 demo:
   url: "http://teamprototype.maps.arcgis.com/apps/webappviewer/index.html?id=389060a1a38e401ebbec3c187745a1d6"

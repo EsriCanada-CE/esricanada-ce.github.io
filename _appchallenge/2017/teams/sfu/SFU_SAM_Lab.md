@@ -13,7 +13,7 @@ members:
     bio: "Olympia Koziatek completed her Masters degree in Geography in the Spatial Analysis Modelling Lab at Simon Fraser University (SFU) with her research focus on 3D urban modelling. Under the supervision of Dr. Suzana Dragicevic, Olympia developed spatial indices and a geosimulation that identifies optimal locations for urban compactness growth and simulates 3D growth at a building-level resolution. Since her degree, she has continued on as a sessional instructor at SFU teaching subjects related to disaster communications and statistics for geography."
 
 school: Simon Fraser University
-videourl: "https://youtu.be/mxK9irq02zQ"
+videoid: mxK9irq02zQ
 
 demo:
   url: "app/viewer/"

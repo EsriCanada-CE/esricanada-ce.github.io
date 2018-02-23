@@ -17,7 +17,7 @@ members:
     bio: "Danielle is currently a fourth year undergraduate student studying in Biology with a strong focus on GIS. She is extending her knowledge and experience into Master’s research studying Humpback Whales in Alaska, focusing on their conservation and foraging ecology. Ultimately, Danielle is hoping to combine her passion for understanding how ecosystems function and her interests in GIS into a career focusing on conservation and public outreach."
 
 school: Carleton University
-videourl: "https://youtu.be/QLcMgfqKtZ8"
+videoid: QLcMgfqKtZ8
 
 demo:
   url: "app/"

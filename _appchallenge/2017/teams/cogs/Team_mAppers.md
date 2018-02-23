@@ -17,7 +17,7 @@ members:
     bio: "Hi, I’m Heather Page. I’m currently at COGS for the Advanced Diploma in Geographic Sciences with a focus on GIS. Previously, I completed an undergraduate degree in Environmental Geoscience and Geomatics with a minor in Physics at the University of Guelph. My interests in STEM and problem solving are the reasons I decided to go into the field of GIS."
 
 school: Centre of Geographic Sciences, NSCC
-videourl: "https://youtu.be/OM_iEPSrXu8"
+videoid: OM_iEPSrXu8
 
 demo:
   url: "app/"

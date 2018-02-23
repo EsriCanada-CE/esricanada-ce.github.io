@@ -21,7 +21,7 @@ members:
     photo: alice.jpg
 
 school: Dalhousie University
-videourl: "https://youtu.be/aIXIqkQ7Z3E"
+videoid: aIXIqkQ7Z3E
 
 demo:
   url: "http://dalspatial.maps.arcgis.com/apps/webappviewer/index.html?id=a9298cdd87fb40c1ad3784161538df53"

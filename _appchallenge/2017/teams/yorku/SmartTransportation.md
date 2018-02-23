@@ -18,7 +18,7 @@ members:
     photo: "phillip.jpg"
 
 school: York University
-videourl: "https://youtu.be/OO4gGmX_SIs"
+videoid: OO4gGmX_SIs
 
 demo:
   url: "app/"

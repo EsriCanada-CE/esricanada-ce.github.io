@@ -15,7 +15,7 @@ members:
     bio: "My name is Benjamin Brunson (right), and I am currently in my fourth year of Geomatics Engineering at York University. I am fascinated by spatial analysis techniques, and am always looking for learning opportunities."
 winner: 1
 school: York University
-videourl: "https://youtu.be/EnC93515cus"
+videoid: EnC93515cus
 
 demo:
   url: "app/"

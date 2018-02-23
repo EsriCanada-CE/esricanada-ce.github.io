@@ -17,7 +17,7 @@ members:
     bio: "(front) Kevin hails from Ottawa, Ontario. Intrigued by the coast, Kevin enrolled at Dalhousie University and has not looked back over the past four years. He is set to graduate this upcoming fall after completing some pesky field school courses that have evaded him over the past few summers. Kevin has had a severe love for GIS and has enjoyed working on the App Challenge with his fellow teammates. Kevin enjoys long walks on the beaches, listening to conch shells, and listening to Mariah Carey Christmas Albums (ask him and he will sing a few bars). His favourite movie was Wild Hogs, but it is now Charlie’s Angels."
 
 school: Dalhousie University
-videourl: "https://youtu.be/v-z9Dwu4dRI"
+videoid: v-z9Dwu4dRI
 
 demo:
   url: "app/"

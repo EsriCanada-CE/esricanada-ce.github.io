@@ -17,7 +17,7 @@ members:
     bio: "(right) From Upper Rawdon, Nova Scotia. Completed a Bachelor of Science majoring in Geography at Memorial University of Newfoundland and Labrador, currently attending the Centre of Geographic Sciences doing an Advanced Geographic Information Systems diploma."
 
 school: Centre of Geographic Sciences, NSCC
-videourl: "https://youtu.be/XWUw68_aXRU"
+videoid: XWUw68_aXRU
 
 demo:
   url: "http://www.cogsforum.com/sustainabletransit/"

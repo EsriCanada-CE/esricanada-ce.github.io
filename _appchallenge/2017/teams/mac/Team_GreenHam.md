@@ -17,7 +17,7 @@ members:
     bio: "Yorgan (right) is a sixth year Earth and Environmental Sciences student at McMaster University. He is very interested in GIS technologies and their application towards spatial statistical analysis. This is his second year participating in the ECCE app challenge."
 
 school: McMaster University
-videourl: "https://youtu.be/b1f7HI3CrWg"
+videoid: b1f7HI3CrWg
 
 demo:
   url: "app/rehamilton.html"

@@ -15,7 +15,7 @@ members:
     bio: "(right) I am currently completing my final year at McMaster university where I am studying Earth and Environmental Science with a minor in GIS. Although my major is Earth and Environmental Sciences my passion is GIS. I am interested in using GIS for the environment, health and planning as well as data visualization. In my spare time I enjoy home brewing, disk golf, and gardening."
 winner: 3
 school: McMaster University
-videourl: "https://youtu.be/2z6JCVftUYI"
+videoid: 2z6JCVftUYI
 
 demo:
   url: "https://mcmaster.maps.arcgis.com/apps/Cascade/index.html?appid=7e1909750a134cfc88366ac5080401fa"

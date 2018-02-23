@@ -15,7 +15,7 @@ members:
     bio: "I moved to Fredericton, Canada from India for the Masters in Geodesy and geomatics Engineering at University of New Brunswick. I was a Systems Engineer at Infosys Limited (an international IT company) for two years before moving to Canada.  I am a resourceful individual with a positive and proactive attitude to take up challenges and diligently work in a team to deliver results. I am passionate about implementing ideas that utilize geo-information and use technology as a medium to generate solutions to broadly relevant problems. My research interests are spatial data infrastructures and web mapping. Previously, I worked as a research intern for two months (June 2013 – July 2013) at Concordia University in the department of geography and urban planning. I did my Bachelor of Engineering in geoinformatics from Anna university, Chennai, India. I was awarded with the GOLD MEDAL for having secured FIRST RANK in B.E., Geoinformatics degree program among the candidates who have graduated based on my academic performance."
 
 school: University of New Brunswick
-videourl: "https://youtu.be/Y6oH3eP6FUk"
+videoid: Y6oH3eP6FUk
 
 demo:
   url: "https://esricanada-ce.github.io/ecce-app-challenge-2017/UNB_GGE_Sustransporters/app/"

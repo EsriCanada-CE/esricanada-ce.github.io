@@ -17,7 +17,7 @@ members:
     bio: "(right) Wei Lu is a MSc. candidate at McMaster University. Her research interests involve applying spatiotemporal analysis in various aspects of transportation research, especially active travel and route choice analysis."
 
 school: McMaster University
-videourl: "https://youtu.be/uN4NAquFan8"
+videoid: uN4NAquFan8
 
 demo:
   url: "http://www.kippmr.com/esri-social-bikes/"

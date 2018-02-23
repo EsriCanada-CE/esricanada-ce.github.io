@@ -15,7 +15,7 @@ members:
     bio: "Carmen (right) is a 3rd year Geography and Environmental Management student Scarborough, Ontario. She enjoys exploring the great outdoors and good puns."
 winner: 2
 school: University of Waterloo
-videourl: "https://youtu.be/1O11ED94B_0"
+videoid: 1O11ED94B_0
 
 demo:
   url: "app/"

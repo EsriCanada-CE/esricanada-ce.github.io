@@ -15,7 +15,7 @@ members:
     bio: "(right) I am a fourth-year student at McMaster University, studying Honours Geography and Environmental Sciences with a Minor in GIS. I am currently completing an undergraduate thesis under the supervision of the McMaster Centre for Climate Change on Soil Respiration in Dispersed VRH Treatments. I have an interest in studying the functions of the urban landscape and how they impact the natural environment."
 
 school: McMaster University
-videourl: "https://youtu.be/sZ6q9ZnaBKQ"
+videoid: sZ6q9ZnaBKQ
 
 demo:
   url: "app/"

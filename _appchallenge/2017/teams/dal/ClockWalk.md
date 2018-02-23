@@ -21,7 +21,7 @@ members:
     photo: florian.jpg
 
 school: Dalhousie University
-videourl: "https://youtu.be/o0t59LhBzOE"
+videoid: o0t59LhBzOE
 
 demo:
   url: "app/"

@@ -21,7 +21,7 @@ members:
     photo: "patricia.jpg"
 
 school: York University
-videourl: "https://youtu.be/_MPatRNRQHI"
+videoid: _MPatRNRQHI
 
 demo:
   url: "app/"
