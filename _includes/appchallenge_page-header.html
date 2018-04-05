@@ -1,9 +1,9 @@
 <section class="page-header">
   {% assign team = page %}
   {% assign challenge = site.appchallenge | where:"category", "challenge" | where:"year", team.year | first %}
-  {% assign teamslug = team.name | replace:' ', '_' | replace:"'", '' %}
+  {% assign teamslug = team.name | replace:' ', '_' | replace:"'", '' | replace:",", '' %}
   {% if team.year == 2017 %}{% assign teamslug = teamslug | replace:'-', '_' %}{% endif %}
-  
+
   <h1 class="project-name">{{ team.name }}</h1>
   <h2 class="project-tagline">ECCE App Challenge {{ team.year }} team from {{ team.school }}</h2>
   <a target="_blank" href="{{site.githuburl}}/ecce-app-challenge-{{team.year}}/tree/master/{{ teamslug }}" class="btn">View on GitHub</a>
