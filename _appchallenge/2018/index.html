@@ -4,26 +4,45 @@ permalink: appchallenge/2018/
 title: ECCE App Challenge 2018
 category: challenge
 year: 2018
+youtubeplaylist: PLdgq5G0ox73VEQFJd4No6peb4NP-GFbdU
 ---
 
-{% assign challenge_ghurl = site.githuburl | append: '/ecce-app-challenge-' | append: page.year %}
-
 <a href="../../" style="font-size:smaller;">Home</a><hr />
-
 <div id="appchallenge">
+  {% assign challenge_ghurl = site.githuburl | append: '/ecce-app-challenge-' | append: page.year %}
 
-  The App Challenge for 2018 is currently in-progress at ECCEs across Canada.
+  <h1>Meet the teams for the ECCE App Challenge 2018</h1>
+  
+  This year, a total of ?? teams competed in the App Challenge from schools participating in the ECCE program across Canada.
   <br /><br />
   
-  After the challenge has completed at all ECCEs (by the end of March), you will find details about the participating teams presented here, along with their video presentations, and live app demonstrations.
-  <br /><br />
-  
-  Check here in early April to see the creations of these teams.
-  <br /><br />
-  
-  The winning team will be announced when judging is completed by the end of April.  The members of the winning team will be awarded an expenses-paid trip to the <a href="http://www.esri.com/about/events/uc" target="_blank">Esri User Conference</a> in San Diego.
-  <br /><br />
-  
-  Stay tuned!
-  
+  You can view the source code and documentation for all of their submissions in our <a href="{{ challenge_ghurl }}">GitHub repository</a> for the challenge.  Below you will find a profile for each of the participating teams for this year, along with details about the team members and the apps that they created.  Video presentations created by each team, as well as live instances of apps can be viewed from each profile page.
+
+    {% assign teams = site.appchallenge | where:"category", "team" | where:"year", page.year %}
+    {% assign schools = "" | split: "" %}
+
+    {% for team in teams %}
+      {% unless schools contains team.school %}
+        {% assign schools = schools | push: team.school %}
+      {% endunless %}
+    {% endfor %}
+
+    {% for school in schools %}
+      <h3>{{ school }}</h3>
+      <ul>
+      {% assign schoolteams = site.appchallenge | where:"category", "team" | where:"year", page.year  | where:"school", school %}
+      {% for team in schoolteams %}
+        <li><span><a href="{{ team.url | replace:"index.html", "" }}">{{ team.name }}</a></span>{% if team.winner %}<span style="font-weight:bold;"> - {% if team.winner == 1 %}WINNER{% elsif team.winner == 2 %}1st Runner-Up{% elsif team.winner == 3 %}2nd Runner-Up{% endif %}</span>{% endif %} |
+          {% assign lastmember = team.members | last %}
+          {% for member in team.members %}
+            {% if member.name == lastmember.name %}
+              {{ member.name }}
+            {% else %}
+              {{ member.name | append: ", " }}
+            {% endif %}
+          {% endfor %}
+        </li>
+      {% endfor %}
+      </ul>
+    {% endfor %}
 </div>

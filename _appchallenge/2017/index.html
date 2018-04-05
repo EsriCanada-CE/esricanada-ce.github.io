@@ -17,7 +17,7 @@ youtubeplaylist: PLdgq5G0ox73V6kGnruo1oYPy1O0OQU40B
   
   You can view the source code and documentation for all of their submissions in our <a href="{{ challenge_ghurl }}">GitHub repository</a> for the challenge.  Below you will find a profile for each of the participating teams for this year, along with details about the team members and the apps that they created.  Video presentations created by each team, as well as live instances of apps can be viewed from each profile page.
 
-    {% assign teams = site.appchallenge | where:"category", "team" | where:"year", 2017 %}
+    {% assign teams = site.appchallenge | where:"category", "team" | where:"year", page.year %}
     {% assign schools = "" | split: "" %}
 
     {% for team in teams %}
@@ -29,7 +29,7 @@ youtubeplaylist: PLdgq5G0ox73V6kGnruo1oYPy1O0OQU40B
     {% for school in schools %}
       <h3>{{ school }}</h3>
       <ul>
-      {% assign schoolteams = site.appchallenge | where:"category", "team" | where:"year", 2017  | where:"school", school %}
+      {% assign schoolteams = site.appchallenge | where:"category", "team" | where:"year", page.year  | where:"school", school %}
       {% for team in schoolteams %}
         <li><span><a href="{{ team.url | replace:"index.html", "" }}">{{ team.name }}</a></span>{% if team.winner %}<span style="font-weight:bold;"> - {% if team.winner == 1 %}WINNER{% elsif team.winner == 2 %}1st Runner-Up{% elsif team.winner == 3 %}2nd Runner-Up{% endif %}</span>{% endif %} |
           {% assign lastmember = team.members | last %}

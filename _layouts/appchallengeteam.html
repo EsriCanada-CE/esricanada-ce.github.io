@@ -2,7 +2,8 @@
 <html lang="en-us">
 
   {% assign team = page %}
-  {% assign teamslug = team.name | replace:' ', '_' | replace:'-', '_' | replace:"'", '' %}
+  {% assign teamslug = team.name | replace:' ', '_' | replace:"'", '' %}
+  {% if team.year == 2017 %}{% assign teamslug = teamslug | replace:'-', '_' %}{% endif %}
   {% assign ghroot = site.ghpagesroot | append: '/ecce-app-challenge-' | append: team.year | append: '/' | append: teamslug %}
   {% assign githubroot = site.githuburl | append: '/ecce-app-challenge-' | append: team.year | append: '/tree/master/' | append: teamslug %}
   {% assign ghblobroot = site.githuburl | append: '/ecce-app-challenge-' | append: team.year | append: '/blob/master/' | append: teamslug %}
@@ -22,13 +23,13 @@
       {% if team.appname %}<h1>App: {{ team.appname }}</h1>{% endif %}
 
       {{ content }}
-      
+
       {% if team.videoid %}
       <h3>Video Presentation</h3>
 
       <p><iframe width="100%" height="480" src="https://www.youtube.com/embed/{{ team.videoid }}" frameborder="0" allow="autoplay; encrypted-media"></iframe></p>
       {% endif %}
-      
+
       {% assign numdocs = team.docs | size %}
       {% if numdocs > 0 %}
         <h3>Documentation</h3>
