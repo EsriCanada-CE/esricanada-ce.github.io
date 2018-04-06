@@ -23,8 +23,8 @@ demo:
   github: no
 
 docs:
-  - name: Readme.md
-    file: Readme.md
+  - name: README.md
+    file: README.md
     readme: yes
   - name: MissionStatement.pdf
     file: MissionStatement.pdf
@@ -34,7 +34,7 @@ docs:
 
 Hosted on online:
 
-- [http://one.dayoneapp.gwiddle.co.uk/](http://one.dayoneapp.gwiddle.co.uk/)
+- [http://one.dayoneapp.gwiddle.co.uk/](http://one.dayoneapp.gwiddle.co.uk/){:target="_blank"}
 
 ---
 

@@ -21,8 +21,8 @@ demo:
   github: yes
 
 docs:
-  - name: Readme.md
-    file: Readme.md
+  - name: ReadMe.md
+    file: ReadMe.md
     readme: yes
   - name: Accompanying Application Statement.doc
     file: Accompanying%20Application%20Statement.doc
@@ -31,11 +31,11 @@ docs:
 
 Hosted on ArcGIS Online:
 
-- [https://cogsnscc.maps.arcgis.com/apps/webappviewer/index.html?id=2acbdcacd7c044ffb602af73945cd050](https://cogsnscc.maps.arcgis.com/apps/webappviewer/index.html?id=2acbdcacd7c044ffb602af73945cd050)
+- [https://cogsnscc.maps.arcgis.com/apps/webappviewer/index.html?id=2acbdcacd7c044ffb602af73945cd050](https://cogsnscc.maps.arcgis.com/apps/webappviewer/index.html?id=2acbdcacd7c044ffb602af73945cd050){:target="_blank"}
 
 Hosted on GitHub:
 
-- [https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Starlet/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Starlet/app/)
+- [https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Starlet/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Starlet/app/){:target="_blank"}
 
 ---
 

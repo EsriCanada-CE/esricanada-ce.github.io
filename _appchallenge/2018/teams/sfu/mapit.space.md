@@ -21,21 +21,21 @@ demo:
   github: yes
 
 docs:
-  - name: Readme.md
-    file: Readme.md
+  - name: README.md
+    file: README.md
     readme: yes
 
 ---
 
 Hosted on custom domain (alyshav.com):
 
-- Homepage: [https://alyshav.com/app/](https://alyshav.com/app/)
-- goElectric App: [https://alyshav.com/app/goelectric.html](https://alyshav.com/app/goelectric.html)
+- Homepage: [https://alyshav.com/app/](https://alyshav.com/app/){:target="_blank"}
+- goElectric App: [https://alyshav.com/app/goelectric.html](https://alyshav.com/app/goelectric.html){:target="_blank"}
 
 Hosted on GitHub:
 
-- Homepage: [https://esricanada-ce.github.io/ecce-app-challenge-2018/mapit.space/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/mapit.space/app/)
-- goElectric App: [https://esricanada-ce.github.io/ecce-app-challenge-2018/mapit.space/app/goelectric.html](https://esricanada-ce.github.io/ecce-app-challenge-2018/mapit.space/app/goelectric.html)
+- Homepage: [https://esricanada-ce.github.io/ecce-app-challenge-2018/mapit.space/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/mapit.space/app/){:target="_blank"}
+- goElectric App: [https://esricanada-ce.github.io/ecce-app-challenge-2018/mapit.space/app/goelectric.html](https://esricanada-ce.github.io/ecce-app-challenge-2018/mapit.space/app/goelectric.html){:target="_blank"}
 
 ---
 

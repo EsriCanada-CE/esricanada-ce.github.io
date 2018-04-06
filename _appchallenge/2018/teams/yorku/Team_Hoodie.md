@@ -30,14 +30,12 @@ docs:
   - name: README.md
     file: README.md
     readme: yes
-  - name: Mission Statement and App Characteristics.pdf
-    file: Mission%20Statement%20and%20App%20Characteristics.pdf
 
 ---
 
 Hosted on GitHub:
 
-- [https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Hoodie/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Hoodie/app/)
+- [https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Hoodie/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Hoodie/app/){:target="_blank"}
 
 ---
 

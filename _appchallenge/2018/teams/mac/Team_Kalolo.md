@@ -23,8 +23,8 @@ demo:
   github: yes
 
 docs:
-  - name: Readme.md
-    file: Readme.md
+  - name: README.md
+    file: README.md
     readme: yes
   - name: Mission Statement and App Characteristics - Team Kalolo.pdf
     file: Mission%20Statement%20and%20App%20Characteristics%20-%20Team%20Kalolo.pdf
@@ -34,11 +34,11 @@ docs:
 
 Hosted on ArcGIS Online:
 
-- [https://www.arcgis.com/apps/webappviewer/index.html?id=bed0783fe480486eb928bfa6f2ed9366](https://www.arcgis.com/apps/webappviewer/index.html?id=bed0783fe480486eb928bfa6f2ed9366)
+- [https://www.arcgis.com/apps/webappviewer/index.html?id=bed0783fe480486eb928bfa6f2ed9366](https://www.arcgis.com/apps/webappviewer/index.html?id=bed0783fe480486eb928bfa6f2ed9366){:target="_blank"}
 
 Hosted on GitHub:
 
-- [https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Kalolo/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Kalolo/app/)
+- [https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Kalolo/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Kalolo/app/){:target="_blank"}
 
 ---
 

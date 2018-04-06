@@ -21,16 +21,19 @@ demo:
   github: yes
 
 docs:
-  - name: Readme.md
-    file: Readme.md
+  - name: ReadMe.md
+    file: ReadMe.md
     readme: yes
 ---
+
+Hosted on ArcGIS Online:
+- [https://restaurant-ecce.maps.arcgis.com/apps/opsdashboard/index.html#/14464c6723a247eb8c53cf9bf06e40a6](https://restaurant-ecce.maps.arcgis.com/apps/opsdashboard/index.html#/14464c6723a247eb8c53cf9bf06e40a6){:target="_blank"}
 
 Hosted on GitHub:
 - [https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Oera/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Oera/app/){:target="_blank"}
 
 ---
 
-# Mission Statement
+## Mission Statement
 
-The Open Ethnic Restaurant App is designed to help aspiring restaurant owners within the extended Golden Horseshoe Area identify areas of large ethnic groupings that lack sufficient restaurants that cater to their ethnicity. The application utilizes open sources Canadian Census data to identify ethnic breakdowns and OpenStreetMap data to identify ethnic restaurants based on Census Tracts. This application assumes perfect competition between the restaurants, in which each restaurant equally shares portions of the ethnic group it caters to. It displays data regarding the population of each ethnic group, the amount of ethnic restaurants, and the ratio of ethnic customers per same ethnic restaurant cuisine type for large areas and individual census tracts. This application can be extended for use pertaining to other non-food service ethnic locations, such as retail stores that cater to specific ethnic groupings. 
+The Open Ethnic Restaurant App is designed to help aspiring restaurant owners within the extended Golden Horseshoe Area identify areas of large ethnic groupings that lack sufficient restaurants that cater to their ethnicity. The application utilizes open sources Canadian Census data to identify ethnic breakdowns and OpenStreetMap data to identify ethnic restaurants based on Census Tracts. This application assumes perfect competition between the restaurants, in which each restaurant equally shares portions of the ethnic group it caters to. It displays data regarding the population of each ethnic group, the amount of ethnic restaurants, and the ratio of ethnic customers per same ethnic restaurant cuisine type for large areas and individual census tracts. This application can be extended for use pertaining to other non-food service ethnic locations, such as retail stores that cater to specific ethnic groupings.

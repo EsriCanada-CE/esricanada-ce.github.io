@@ -21,8 +21,8 @@ demo:
   github: yes
 
 docs:
-  - name: Readme.md
-    file: Readme.md
+  - name: README.md
+    file: README.md
     readme: yes
   - name: Mission_Statement_And_Characteristics_2018.pdf
     file: Mission_Statement_And_Characteristics_2018.pdf
@@ -31,12 +31,12 @@ docs:
 
 Hosted on ArcGIS Online:
 
-- App: [http://www.arcgis.com/apps/webappviewer/index.html?id=c2368d10ec31461aa26a5248afa98e39](http://www.arcgis.com/apps/webappviewer/index.html?id=c2368d10ec31461aa26a5248afa98e39)
-- Web Map for data collection: [http://www.arcgis.com/home/webmap/viewer.html?webmap=cee3f1916850430f8bfaaa9432f2bd69](http://www.arcgis.com/home/webmap/viewer.html?webmap=cee3f1916850430f8bfaaa9432f2bd69)
+- App: [http://www.arcgis.com/apps/webappviewer/index.html?id=c2368d10ec31461aa26a5248afa98e39](http://www.arcgis.com/apps/webappviewer/index.html?id=c2368d10ec31461aa26a5248afa98e39){:target="_blank"}
+- Web Map for data collection: [http://www.arcgis.com/home/webmap/viewer.html?webmap=cee3f1916850430f8bfaaa9432f2bd69](http://www.arcgis.com/home/webmap/viewer.html?webmap=cee3f1916850430f8bfaaa9432f2bd69){:target="_blank"}
 
 Hosted on GitHub:
 
-- [https://esricanada-ce.github.io/ecce-app-challenge-2018/West_Coast_Best_Coast/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/West_Coast_Best_Coast/app/)
+- [https://esricanada-ce.github.io/ecce-app-challenge-2018/West_Coast_Best_Coast/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/West_Coast_Best_Coast/app/){:target="_blank"}
 
 ---
 

@@ -34,8 +34,8 @@ docs:
 
 Hosted on ArcGIS Online:
 
-- AppStudio application: [https://www.arcgis.com/home/item.html?id=2a5ad315ac90452eabb6b38089649ed2](https://www.arcgis.com/home/item.html?id=2a5ad315ac90452eabb6b38089649ed2)
-- StoryMap: [https://www.arcgis.com/apps/Cascade/index.html?appid=abeb1e666cbb44258a7fb5290d66da7d](https://www.arcgis.com/apps/Cascade/index.html?appid=abeb1e666cbb44258a7fb5290d66da7d)
+- AppStudio application: [https://www.arcgis.com/home/item.html?id=2a5ad315ac90452eabb6b38089649ed2](https://www.arcgis.com/home/item.html?id=2a5ad315ac90452eabb6b38089649ed2){:target="_blank"}
+- StoryMap: [https://www.arcgis.com/apps/Cascade/index.html?appid=abeb1e666cbb44258a7fb5290d66da7d](https://www.arcgis.com/apps/Cascade/index.html?appid=abeb1e666cbb44258a7fb5290d66da7d){:target="_blank"}
 
 Steps to open application using AppStudio Player for ArcGIS:
 

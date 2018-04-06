@@ -21,8 +21,8 @@ demo:
   github: yes
 
 docs:
-  - name: Readme.md
-    file: Readme.md
+  - name: README.md
+    file: README.md
     readme: yes
   - name: Instructions.md
     file: Instructions.md
@@ -32,7 +32,7 @@ docs:
 
 Hosted on GitHub:
 
-- [https://esricanada-ce.github.io/ecce-app-challenge-2018/Marauders_mApp/app/Static/](https://esricanada-ce.github.io/ecce-app-challenge-2018/Marauders_mApp/app/Static/)
+- [https://esricanada-ce.github.io/ecce-app-challenge-2018/Marauders_mApp/app/Static/](https://esricanada-ce.github.io/ecce-app-challenge-2018/Marauders_mApp/app/Static/){:target="_blank"}
 
 ---
 

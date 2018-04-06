@@ -23,8 +23,8 @@ demo:
   github: yes
 
 docs:
-  - name: Readme.md
-    file: Readme.md
+  - name: README.md
+    file: README.md
     readme: yes
   - name: Mission Statement and Characteristics.pdf
     file: Mission%20Statement%20and%20Characteristics.pdf
@@ -33,7 +33,7 @@ docs:
 ---
 
 Hosted on GitHub:
-- [https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Elevated_Oasis/app/GreenRoofApp.html](https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Elevated_Oasis/app/GreenRoofApp.html)
+- [https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Elevated_Oasis/app/GreenRoofApp.html](https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Elevated_Oasis/app/GreenRoofApp.html){:target="_blank"}
 
 ---
 

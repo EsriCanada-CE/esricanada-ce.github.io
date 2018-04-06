@@ -23,8 +23,8 @@ demo:
   github: no
 
 docs:
-  - name: Readme.md
-    file: Readme.md
+  - name: README.md
+    file: README.md
     readme: yes
   - name: Mission Statement.docx
     file: Mission%20Statement.docx
@@ -32,7 +32,7 @@ docs:
 ---
 
 Hosted on ArcGIS Online:
-- [https://cogsnscc.maps.arcgis.com/apps/webappviewer/index.html?id=18a53da9fce7493ca09a37d5b6c22d16](https://cogsnscc.maps.arcgis.com/apps/webappviewer/index.html?id=18a53da9fce7493ca09a37d5b6c22d16)
+- [https://cogsnscc.maps.arcgis.com/apps/webappviewer/index.html?id=18a53da9fce7493ca09a37d5b6c22d16](https://cogsnscc.maps.arcgis.com/apps/webappviewer/index.html?id=18a53da9fce7493ca09a37d5b6c22d16){:target="_blank"}
 
 ---
 

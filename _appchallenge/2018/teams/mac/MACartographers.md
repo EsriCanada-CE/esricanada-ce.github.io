@@ -23,8 +23,8 @@ demo:
   github: yes
 
 docs:
-  - name: Readme.md
-    file: Readme.md
+  - name: README.md
+    file: README.md
     readme: yes
   - name: Mission_Statement.pdf
     file: Mission_Statement.pdf
@@ -32,7 +32,7 @@ docs:
 
 Hosted on GitHub:
 
-- [https://esricanada-ce.github.io/ecce-app-challenge-2018/MACartographers/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/MACartographers/app/)
+- [https://esricanada-ce.github.io/ecce-app-challenge-2018/MACartographers/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/MACartographers/app/){:target="_blank"}
 
 ---
 

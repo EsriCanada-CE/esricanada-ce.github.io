@@ -21,8 +21,8 @@ demo:
   github: no
 
 docs:
-  - name: Readme.md
-    file: Readme.md
+  - name: README.md
+    file: README.md
     readme: yes
   - name: App Characteristics.pdf
     file: App%20Characteristics.pdf
@@ -32,11 +32,11 @@ docs:
 
 Hosted on ArcGIS Online:
 
-- AppStudio application: [http://www.arcgis.com/home/item.html?id=f6c04d2e173445b38e60f636b77dd048](http://www.arcgis.com/home/item.html?id=f6c04d2e173445b38e60f636b77dd048)
+- AppStudio application: [http://www.arcgis.com/home/item.html?id=f6c04d2e173445b38e60f636b77dd048](http://www.arcgis.com/home/item.html?id=f6c04d2e173445b38e60f636b77dd048){:target="_blank"}
 
 Hosted on GitHub:
 
-- Dashboard web app: [https://esricanada-ce.github.io/ecce-app-challenge-2018/TrailCrew/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/TrailCrew/app/)
+- Dashboard web app: [https://esricanada-ce.github.io/ecce-app-challenge-2018/TrailCrew/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/TrailCrew/app/){:target="_blank"}
 
 Steps to open application using AppStudio Player for ArcGIS:
 
