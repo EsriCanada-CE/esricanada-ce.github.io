@@ -17,8 +17,8 @@ school: Western University
 videoid: 7QKjrjztiI0
 
 demo:
-  url: "https://westernu-sitelic.maps.arcgis.com/apps/webappviewer/index.html?id=485fbf68af8145ddab44c3d00d8ef54e"
-  github: no
+  url: "app/customer/"
+  github: yes
 
 docs:
   - name: README.md
@@ -33,6 +33,11 @@ Hosted on ArcGIS Online:
 
 - Customer: [https://westernu-sitelic.maps.arcgis.com/apps/webappviewer/index.html?id=485fbf68af8145ddab44c3d00d8ef54e](https://westernu-sitelic.maps.arcgis.com/apps/webappviewer/index.html?id=485fbf68af8145ddab44c3d00d8ef54e){:target="_blank"}
 - Farmer: [https://westernu-sitelic.maps.arcgis.com/apps/webappviewer/index.html?id=d0a701b52bf04094ab70a04798838ffa](https://westernu-sitelic.maps.arcgis.com/apps/webappviewer/index.html?id=d0a701b52bf04094ab70a04798838ffa){:target="_blank"}
+
+Hosted on GitHub:
+
+- Customer: [https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Hegemone/app/customer/](https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Hegemone/app/customer/){:target="_blank"}
+- Farmer: [https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Hegemone/app/farmer/](https://esricanada-ce.github.io/ecce-app-challenge-2018/Team_Hegemone/app/farmer/){:target="_blank"}
 
 ---
 
