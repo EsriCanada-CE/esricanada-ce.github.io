@@ -38,6 +38,19 @@ Hosted on GitHub:
 
 - Dashboard web app: [https://esricanada-ce.github.io/ecce-app-challenge-2018/TrailCrew/app/](https://esricanada-ce.github.io/ecce-app-challenge-2018/TrailCrew/app/)
 
+Steps to open application using AppStudio Player for ArcGIS:
+
+1. Get the AppStudio Player for ArcGIS for iOS or Android devices:
+
+  <a target="_blank" href="https://itunes.apple.com/us/app/appstudio-player-for-arcgis/id1018006050?ls=1&mt=8">&nbsp;&nbsp;<img src="http://doc.arcgis.com/assets/img/badges/app_store.svg" height="40px"></a><br />
+  <a target="_blank" href="https://play.google.com/store/apps/details?id=com.esri.appstudio.player"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="58"></a>
+
+2. Open AppStudio Player, and from the menu sign-in with an ArcGIS Online organizational or developer account.
+
+3. From the AppStudio Player menu, choose to scan a QR code, and point the camera at this image:
+
+  ![alt text](https://esricanada-ce.github.io/ecce-app-challenge-2018/TrailCrew/images/appstudio_qrcode.gif "QR Code")
+
 ---
 
 ## Mission Statement:
