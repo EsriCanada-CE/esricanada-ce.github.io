@@ -49,7 +49,7 @@ Steps to open application using AppStudio Player for ArcGIS:
 
 3. From the AppStudio Player menu, choose to scan a QR code, and point the camera at this image:
 
-  ![alt text](https://esricanada-ce.github.io/ecce-app-challenge-2018/TrailCrew/images/appstudio_qrcode.gif "QR Code")
+  ![QR Code](https://esricanada-ce.github.io/ecce-app-challenge-2018/TrailCrew/images/appstudio_qrcode.gif "QR Code")
 
 ---
 
