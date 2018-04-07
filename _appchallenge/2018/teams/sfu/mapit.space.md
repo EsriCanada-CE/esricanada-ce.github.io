@@ -12,7 +12,7 @@ members:
   - name: "Anthony Lee"
     bio: "Anthony (centre) is a fourth-year Geography student at Simon Fraser University. He is also working to obtaining a minor in Dialogue and certificates in Spatial Information Systems and in Environmental Literacy. He currently works as a GIS Technician for TransLink and was previously a research assistant for SFU’s Spatial Analysis & Modeling Lab. In his spare time, Anthony works as a lifeguard & swimming instructor for the City of Burnaby and loves to take his Boston Terrier out for walks."
   - name: "Chris Yee"
-    bio: "Chris (right) is fourth-year Geography student at Simon Fraser University. He has completed the Spatial Information Systems Certificate and the SFU Co-op Education."
+    bio: "Chris (right) is fourth-year Geography student at Simon Fraser University. He has completed the Spatial Information Systems Certificate and the SFU Co-op Education Designation. Chris is currently a GIS Technician at the Fire Underwriters Survey and has previously worked with the Department of Fisheries and Oceans as a GIS Coordinator. Chris is also interested sustainable futures through innovations in technology and cultural paradigm shifts. Outside of academics and work, Chris spends his time snowboarding, mountain biking, and practicing photography."
 school: Simon Fraser University
 videoid: Z7kyUroeAsE
 
