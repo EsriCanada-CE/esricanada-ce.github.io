@@ -30,6 +30,7 @@ docs:
     file: AppDescription.pdf
   - name: codeDescription.md
     file: codeDescription.md
+    ismd: yes
 ---
 
 Hosted on ArcGIS Online:

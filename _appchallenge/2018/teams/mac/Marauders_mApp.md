@@ -26,8 +26,10 @@ docs:
     readme: yes
   - name: Instructions.md
     file: Instructions.md
+    ismd: yes
   - name: sources.md
     file: sources.md
+    ismd: yes
 ---
 
 Hosted on GitHub:
