@@ -13,6 +13,7 @@ members:
   bio: "(middle) I am a first year Master’s student in the School of Geography and Earth Sciences at McMaster University. My research focuses on how accessibility of the road network is affected by flooding events in Calgary and Winnipeg. I am an ECCE Student Associate and this is my second year competing in the App Challenge. Some of my hobbies include cooking, hiking and traveling."
 - name: "Anastassios Dardas"
   bio: "(right) Anastassios Dardas is currently a PhD student at McMaster University, specializing in the spatio-temporal dimensions of health and transportation geography on informal caregivers. His other specialties are GIS, spatial statistics and network analyses, and has a strong background in computer programming. After completing his PhD, Anastassios has a strong desire to learn deep learning and applied artificial intelligence. In the current midst of his PhD studies, he and his teams competed the app challenge and placed 3rd two consecutive times in a row. Hobbies: traveling, hackathons, ultimate frisbee, and rowing. "
+winner: 3
 school: McMaster University
 videoid: yRb_g1llT00
 

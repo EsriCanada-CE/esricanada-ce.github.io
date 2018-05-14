@@ -15,6 +15,7 @@ members:
     bio: "(middle-right) I am a Masters of Environmental Studies student at the University of Waterloo. I did my Undergrad in Geomatics with Computer Science Minor. My education and experiences have made me very passionate about GIS, Open Data, Data Science, and app development. I've helped develop various apps, but the spatial apps such as this one have been the most exciting to work on."
   - name: "Stephanie Wen"
     bio: "(right) Hi! I am in my 4th year of Geomatics at the University of Waterloo. I enjoy creating maps of places I've never been to. Creating bucket lists in that city, so that one day when I visit I can plan my trips, and accomplish them in the time allotted. I also enjoy sleeping, eating, instagramming, and snapchatting. If we get to go to San Diego I promise a blog of our experience!"
+winner: 2
 school: University of Waterloo
 videoid: VhHoDbwbSxg
 
