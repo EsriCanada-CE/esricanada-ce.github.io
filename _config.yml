@@ -11,10 +11,6 @@ author:
   name:       Esri Canada GIS Centres of Excellence
   url:        https://ecce.esri.ca
 
-# Gems
-gems:
-  - jekyll-paginate
-
 #Others
 markdown: kramdown
 port: 12349
