@@ -1,0 +1,15 @@
+<section class="page-header">
+  {% assign team = page %}
+  {% assign challenge = site.appchallenge | where:"category", "challenge" | where:"year", team.year | first %}
+  {% assign teamslug = team.name | replace:' ', '_' | replace:"'", '' | replace:",", '' %}
+  {% if team.prependteam %}{% assign teamslug = "Team_" | append: teamslug %}{% endif %}
+  {% if team.year == 2017 %}{% assign teamslug = teamslug | replace:'-', '_' %}{% endif %}
+
+  <h2 class="project-tagline top">ECCE App Challenge {{ team.year }}</h2>
+  <h1 class="project-name">Team: {{ team.name }}</h1>
+  <h2 class="project-tagline">{{ team.school }}</h2>
+  <br />
+  <a target="_blank" href="{{site.githuburl}}/ecce-app-challenge-{{team.year}}/tree/master/{{ teamslug }}" class="btn">View on GitHub</a>
+  {% unless team.demo.url == nil %}{% unless team.demo.url == "" %}<a target="_blank" href="{% if team.demo.github %}{{site.ghpagesroot}}/ecce-app-challenge-{{team.year}}/{{ teamslug }}/{% endif %}{{ team.demo.url }}" class="btn">Live Demo</a>{% endunless %}{% endunless %}
+  <a target="_blank" href="https://youtu.be/{{ team.videoid }}{% if challenge.youtubeplaylist %}?list={{ challenge.youtubeplaylist }}{% endif %}" class="btn">Watch Video</a>
+</section>

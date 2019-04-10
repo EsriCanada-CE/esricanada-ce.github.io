@@ -3,16 +3,17 @@
 
   {% assign team = page %}
   {% assign teamslug = team.name | replace:' ', '_' | replace:"'", '' | replace:",", '' %}
+  {% if team.prependteam %}{% assign teamslug = "Team_" | append: teamslug %}{% endif %}
   {% if team.year == 2017 %}{% assign teamslug = teamslug | replace:'-', '_' %}{% endif %}
   {% assign ghroot = site.ghpagesroot | append: '/ecce-app-challenge-' | append: team.year | append: '/' | append: teamslug %}
   {% assign githubroot = site.githuburl | append: '/ecce-app-challenge-' | append: team.year | append: '/tree/master/' | append: teamslug %}
   {% assign ghblobroot = site.githuburl | append: '/ecce-app-challenge-' | append: team.year | append: '/blob/master/' | append: teamslug %}
 
-  {% include appchallenge_head.html %}
+  {% include appchallenge_head_2019.html %}
 
   <body>
 
-    {% include appchallenge_page-header.html %}
+    {% include appchallenge_page-header_2019.html %}
 
     <section class="main-content">
 
@@ -20,7 +21,7 @@
 
       {% if team.winner %}<span style="font-weight:bold;">Esri Canada congratulates {{ team.name }}, the {% if team.winner == 1 %}winning team {% elsif team.winner == 2 %}1st Runner-Up {% elsif team.winner == 3 %}2nd Runner-Up {% endif %}of the App Challenge {{team.year}}!</span><hr />{% endif %}
 
-      {% if team.appname %}<h1>App: {{ team.appname }}</h1>{% endif %}
+      {% if team.appname %}<h1>App: <em>{{ team.appname }}</em></h1>{% endif %}
 
       {{ content }}
 
@@ -30,12 +31,19 @@
       <p><iframe width="100%" height="480" src="https://www.youtube.com/embed/{{ team.videoid }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe></p>
       {% endif %}
 
+      {% assign numvids = team.extravideos | size %}
+      {%if numvids > 0 %}
+        {% for video in team.extravideos %}
+          <p><iframe width="100%" height="480" src="https://www.youtube.com/embed/{{ video.videoid }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe></p>
+        {% endfor %}
+      {% endif %}
+
       {% assign numdocs = team.docs | size %}
       {% if numdocs > 0 %}
         <h3>Documentation</h3>
         <ul>
         {% for doc in team.docs %}
-          <li><a target="_blank" href="{% if doc.readme %}{% if doc.ishtml %}{{ ghroot }}/{{ doc.file }}{% else %}{{ githubroot }}{% endif %}{% else %}{% if doc.ismd %}{{ ghblobroot }}{% else %}{{ ghroot }}{% endif %}/docs/{{ doc.file }}{% endif %}">{{ doc.name }}</a>{% if doc.altfile %} | <a target="_blank" href="{{ ghroot }}/docs/{{ doc.altfile }}">{{ doc.altname }}</a>{% endif %}</li>
+          <li><a target="_blank" href="{% if doc.readme %}{% if doc.ishtml %}{{ ghroot }}/{{ doc.file }}{% elsif doc.ispdf %}{{ ghblobroot }}/{{ doc.file }}{% else %}{{ githubroot }}{% endif %}{% else %}{% if doc.ismd %}{{ ghblobroot }}{% else %}{{ ghroot }}{% endif %}{% if doc.ispage %}/{{ doc.file }}{% else %}/docs/{{ doc.file }}{% endif %}{% endif %}">{{ doc.name }}</a>{% if doc.altfile %} | <a target="_blank" href="{{ ghroot }}/docs/{{ doc.altfile }}">{{ doc.altname }}</a>{% endif %}</li>
         {% endfor %}
         </ul>
       {% endif %}
