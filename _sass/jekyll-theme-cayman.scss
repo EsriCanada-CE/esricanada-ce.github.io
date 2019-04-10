@@ -64,19 +64,21 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 1.0);
+  //background-color: rgba(255, 255, 255, 0.08);
+  background-color: rgba(0, 0, 0, 0.55);
+  border-color: rgba(0, 0, 0, 0.7);
   border-style: solid;
   border-width: 1px;
-  border-radius: 0.3rem;
+  //border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
   &:hover {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(0, 0, 0, 1.0);
     text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.3);
+    //background-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.55);
+    border-color: rgba(255, 255, 255, 0.7);
   }
 
   + .btn {
@@ -109,7 +111,10 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  //background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: url(../images/ecce-ac-banner-o.jpg);
+  background-size: auto 100%;
+  background-position: top right;
 
   @include large {
     padding: 5rem 6rem;
@@ -125,8 +130,8 @@ a {
 }
 
 .project-name {
-  margin-top: 0;
-  margin-bottom: 0.1rem;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.55);
 
   @include large {
     font-size: 3.25rem;
@@ -141,10 +146,41 @@ a {
   }
 }
 
+.empty-tagline {
+  margin: 0;
+
+  @include large {
+    font-size: 1.25rem;
+  }
+
+  @include medium {
+    font-size: 1.15rem;
+  }
+
+  @include small {
+    font-size: 1rem;
+  }
+
+  &.top {
+    @include large {
+      font-size: 1.55rem;
+    }
+
+    @include medium {
+      font-size: 1.45rem;
+    }
+
+    @include small {
+      font-size: 1.25rem;
+    }
+  }
+}
+
 .project-tagline {
-  margin: 0.25rem;
+  margin: 0;
   font-weight: normal;
-  opacity: 0.7;
+  //opacity: 0.7;
+  background-color: rgba(60, 60, 60, 0.55);
 
   @include large {
     font-size: 1.25rem;

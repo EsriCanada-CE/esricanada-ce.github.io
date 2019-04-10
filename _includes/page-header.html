@@ -1,6 +1,7 @@
 <section class="page-header">
   <h1 class="project-name">{% if page.title %}{{page.title}}{% else %}{{ site.title }}{% endif %}</h1>
-  <h2 class="project-tagline">{% if page.title %}{% if page.tagline %}{{ page.tagline }}{% else %}&nbsp;{% endif %}{% else %}{{ site.tagline }}{% endif %}</h2>
+  {% if page.title %}{% if page.tagline %}<h2 class="project-tagline">{{ page.tagline }}</h2>{% else %}<h2 class="empty-tagline">&nbsp;</h2>{% endif %}{% elsif site.tagline %}<h2 class="project-tagline">{{ site.tagline }}</h2>{% endif %}
+  <br />
   <a href="{{site.githuburl}}" class="btn">ECCE on GitHub</a>
   <a href="{{site.author.url}}" class="btn">ECCE Website</a>
 </section>
