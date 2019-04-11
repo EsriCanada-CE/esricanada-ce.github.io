@@ -3,6 +3,12 @@
 @import "variables";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 
+@mixin page-header-bg-max {
+  @media screen and (min-width: 1683px) {
+    @content;
+  }
+}
+
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
     @content;
@@ -115,6 +121,10 @@ a {
   background-image: url(../images/ecce-ac-banner-o.jpg);
   background-size: auto 100%;
   background-position: top right;
+
+  @include page-header-bg-max {
+    background-size: 100% auto;
+  }
 
   @include large {
     padding: 5rem 6rem;
