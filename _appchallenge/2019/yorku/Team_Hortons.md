@@ -5,7 +5,7 @@ category: team
 name: Hortons
 prependteam: yes
 permalink: appchallenge/2019/teams/yorku/Team_Hortons/
-appname: "SUN: Sustainable Urban Networks"
+appname: "SUN: <strong>S</strong>ustainable <strong>U</strong>rban <strong>N</strong>etworks"
 photo: team.jpg
 members:
   - name: "David Recchia"

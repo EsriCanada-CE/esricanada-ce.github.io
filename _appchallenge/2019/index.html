@@ -16,10 +16,10 @@ youtubeplaylist: PLdgq5G0ox73Uam3LGylpNV9ANGPOEQ-xS
 
   <h1>Meet the teams for the ECCE App Challenge 2019</h1>
 
-  This year, a total of {{ numteams }} teams competed in the App Challenge from schools participating in the ECCE program across Canada.
+  This year, a total of {{ numteams }} teams from ECCE schools across Canada completed the App Challenge.
   <br /><br />
 
-  You can view the source code and documentation for all of their submissions in our <a href="{{ challenge_ghurl }}">GitHub repository</a> for the challenge.  Below you will find a profile for each of the participating teams for this year, along with details about the team members and the apps that they created.  Video presentations created by each team, as well as live instances of apps can be viewed from each profile page.
+  The source code and documentation for each team has been added to the <a href="{{ challenge_ghurl }}">GitHub repository</a> for the {{ year }} challenge.  Below you will find a profile for each of this year's teams, along with details about the team members and the apps that they created.  Included with each profile is a video presentation created by the team to promote and demonstrate their app, and links are provided to access live demonstrations of their applications.
 
     {% for team in teams %}
       {% unless schools contains team.school %}

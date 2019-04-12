@@ -5,7 +5,7 @@ category: team
 name: SpectaculAR
 permalink: appchallenge/2019/teams/uw/SpectaculAR/
 photo: team.jpg
-appname: S.M.A.R.T.
+appname: S.M.A.R.T. (<strong>S</strong>ustainable <strong>M</strong>anagement in <strong>A</strong>ugmented <strong>R</strong>eality <strong>T</strong>echnology)
 members:
   - name: "Jaydeep Mistry"
     bio: "(middle-right) I was the Lead Engineer for the team. I am completing my Masters in Geography, working with GIS and Open Data. My expertise in GIS systems and app development allowed me to use bleeding edge technology and make this AR app."

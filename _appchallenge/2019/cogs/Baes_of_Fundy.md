@@ -5,7 +5,7 @@ category: team
 name: Baes of Fundy
 permalink: appchallenge/2019/teams/cogs/Baes_of_Fundy/
 photo: team.jpg
-appname: HUGS
+appname: "HUGS (<strong>H</strong>alifax <strong>U</strong>rban <strong>G</strong>reen <strong>S</strong>pace)"
 members:
   - name: "Liam Gowan"
     bio: "I am currently a student at the Centre of Geographic Sciences - NSCC, Lawrencetown, Nova Scotia. Here, I am enrolled in the GIS concentration within the Advanced Diploma in Geographic Sciences. In 2018, I graduated from Dalhousie University with a Bachelor of Computer Science with a specialization in communications technology and cyber security. I enjoy web programming, online mapping applications, drones, cycling, kayaking, and making homemade wine. For more information, please go to www.liamgowan.ca."
