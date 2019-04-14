@@ -17,7 +17,7 @@ members:
   - name: "Pio Claudio"
     bio: "Hi, I'm Pio from York University. I'm interested in topics like computer graphics and map visualization. I watch NBA and a few times I made data vis for it too. [Right]"
 school: York University
-videoid: 0lj8wmCk0uw
+videoid: 0aCJ76I6dgU
 
 demo:
   url: "app/"
