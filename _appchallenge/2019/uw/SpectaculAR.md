@@ -18,6 +18,9 @@ members:
 school: University of Waterloo
 videoid: 2KRp0xgTSDA
 
+extravideos:
+  - videoid: BTxz8_ssLAE
+
 demo:
   url: "https://esricanada-ce.github.io/ecce-app-challenge-2019/SpectaculAR/app/smart.apk"
   github: no
