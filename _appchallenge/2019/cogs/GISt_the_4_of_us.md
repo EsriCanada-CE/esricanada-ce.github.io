@@ -7,7 +7,7 @@ permalink: appchallenge/2019/teams/cogs/GISt_the_4_of_us/
 photo: team.jpg
 appname: AccessToronto
 members:
-  - name: Catherine Ozon"
+  - name: "Catherine Ozon"
     bio: "Freedom is her greatest treasure, Catherine has a deep love for adventure and travel. With a B.A in Geography from Mount Allison University, Catherine is completing an Advanced Diploma in Geographic Sciences with a concentration in Remote Sensing at the Centre of Geographic Sciences. Her enthusiasm has no bounds, Catherine possess a great sense of humor and open mindedness."
   - name: "Mikaela Bennett"
     bio: "An optimistic go-getter capable of finishing several things at once, often before lunch, Mikaela is a graduate from the University of Guelph with a B.A in Geography. She is currently attending the Centre of Geographic Sciences, enrolled in the Advanced Diploma in Geographic Sciences with a GIS focus. With youthful strength and energy, Mikaela embraces togetherness and teamwork."

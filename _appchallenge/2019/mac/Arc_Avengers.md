@@ -13,7 +13,7 @@ members:
     bio: "Matthew (middle right) is a fourth-year Geography and Environmental Science major at McMaster. He is pursuing a minor is GIS and competing in the App Challenge for the first time. He has had the opportunity to work in an ecology lab using remote sensing to detect invasive grass distributions across southern Ontario. He has a strong passion for the environment and sustainable development and hopes to use his GIS skills to influence future development projects. Matthew enjoys rowing, camping and hiking, as well as fixing up old cars."
   - name: "Serad Abdi"
     bio: "Serad (middle left) is a 5th year undergraduate student in B.Sc Hons Environmental Science and Geography who is pursuing a minor in GIS. She is very interested in hydrology, renewable energy resources as well as exploring how various technologies like GIS can help improve our carbon footprints. Outside of her academic interests she enjoys reading, playing soccer, and watching nature documentaries. This is her second time competing in the app challenge."
-  - name: "Nocole Langdon"
+  - name: "Nicole Langdon"
     bio: "Nicole (far left) is a fourth-year Geography student at McMaster University who is pursuing a minor in GIS. She is currently doing her undergraduate thesis on food accessibility and urban agriculture in Hamilton, Ontario. This year is her first time competing in the app challenge. Beyond the classroom, Nicole has a passion for technology and volunteering in her community."
 school: McMaster University
 videoid: k8TAPHN8b9U
