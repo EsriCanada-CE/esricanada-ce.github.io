@@ -4,7 +4,7 @@ year: 2019
 category: team
 name: McMapsters
 permalink: appchallenge/2019/teams/mac/McMapsters/
-photo: team.png
+photo: team.jpg
 appname: UPWIND
 members:
   - name: "Sean Leipe"
