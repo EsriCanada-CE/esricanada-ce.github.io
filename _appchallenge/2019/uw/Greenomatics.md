@@ -23,8 +23,8 @@ demo:
   github: yes
 
 docs:
-  - name: Readme.pdf
-    file: Readme.pdf
+  - name: README.pdf
+    file: README.pdf
     readme: yes
     ispdf: yes
 ---
