@@ -26,7 +26,8 @@ demo:
 docs:
   - name: README.docx
     file: README.docx
-    readme: no
+    readme: yes
+    ishtml: yes
 ---
 
 Hosted on GitHub:
