@@ -13,6 +13,7 @@ members:
     bio: "Michele (right) is a second year Master’s student in the School of Geography and Earth Sciences at McMaster University. Her research focuses on the accessibility of emergency services during historic and predicted flooding events. She has a strong background in spatial, statistical and network analyses. This is her second year being an ECCE Student Associate and third year competing in the App Challenge. Some of her hobbies include baking, hiking and traveling."
   - name: "Anastassios Dardas"
     bio: "Tasos (centre) is in his final year of PhD in the School of Geography and Earth Sciences at McMaster University. He will be defending his dissertation, “Assessing Activity Travel Behaviour of Carer-Employees & Health Risk Areas in Hamilton”, this coming April. During his 3.5 years of PhD, Tasos has participated a total of 6 hackathons from blockchain energy design to hazard predictions to sustainability. Some of his hobbies include rowing, ultimate frisbee, and learning new development frameworks."
+winner: 2
 school: McMaster University
 videoid: GwkxeYXvPrU
 

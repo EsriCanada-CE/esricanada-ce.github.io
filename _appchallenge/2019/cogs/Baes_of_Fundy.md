@@ -15,6 +15,7 @@ members:
     bio: "I am a student at the Centre of Geographic Sciences (COGS) in Lawrencetown, NS. I am enrolled in the Advance Diploma in Geographic Science program with a concentration is GIS. I love spatial relationships and applying GIS technologies to improve public understanding of complex social issues. I graduated from Memorial University with a BA (2016) and a MSc (2018) in Geography."
   - name: "Andrea Zagar"
     bio: "I’m a student in the Advanced GIS Diploma program at the Centre of Geographic Sciences (COGS) in Lawrencetown, Nova Scotia. I graduated from Western University in 2017 with an undergraduate degree in Software Engineering. To me, GIS is an exciting combination of geography, programming, and data analysis that provides a unique perspective of the world around us. When I’m not working on maps, you can find me reading, cooking, stargazing or exploring the outdoors."
+winner: 3
 school: Centre of Geographic Sciences, NSCC
 videoid: 8lvLD93BAJg
 

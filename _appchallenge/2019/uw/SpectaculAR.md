@@ -15,6 +15,7 @@ members:
     bio: "(far-left) I was the head of the User Experience (UX) department for the project as well as the creator of the demo video used in our sales pitch. I am currently finishing up the second year of my Master’s of Science degree at the University of Waterloo, specializing in remote sensing of Arctic snow. I also completed my undergraduate degree in Computer Science at Waterloo, and used the design skills I learned there coupled with on-the-job experience to bring the S.M.A.R.T. App to life. I enjoy creating my own iOS apps/games on the side and my favorite food is Fettuccine Alfredo."
   - name: "Manpreet Singh Chahal"
     bio: "(far-right) I was the Lead Researcher for the team. I am completing my Masters in Geography, working with Crowdsourcing and Public Participation GIS at the University of Waterloo. I completed my undergraduate degree in Biology and Environmental Science with a minor in GIS at McMaster University. My background in using GIS technology in my undergraduate thesis and thus far in my Masters program has given me the experience to compile all of the research needed to create this AR app. In my spare time, I enjoy playing sports such as basketball and soccer and watching hockey."
+winner: 1
 school: University of Waterloo
 videoid: 2KRp0xgTSDA
 
