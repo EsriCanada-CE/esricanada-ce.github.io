@@ -14,6 +14,7 @@ author:
 #Others
 markdown: kramdown
 port: 12349
+host: 0.0.0.0
 
 collections:
   appchallenge:

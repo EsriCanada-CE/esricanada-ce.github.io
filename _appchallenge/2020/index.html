@@ -1,0 +1,48 @@
+---
+layout: default
+permalink: appchallenge/2020/
+title: ECCE App Challenge 2020
+category: challenge
+year: 2020
+youtubeplaylist: PLdgq5G0ox73X_hA9JTHACgGvtzetZK1IA
+---
+
+<a href="../../" style="font-size:smaller;">Home</a><hr />
+<div id="appchallenge">
+  {% assign challenge_ghurl = site.githuburl | append: '/ecce-app-challenge-' | append: page.year %}
+  {% assign teams = site.appchallenge | where:"category", "team" | where:"year", page.year %}
+  {% assign schools = "" | split: "" %}
+  {% assign numteams = teams | size %}
+
+  <h1>Meet the teams for the ECCE App Challenge {{ page.year }}</h1>
+
+  This year, a total of {{ numteams }} teams from ECCE schools across Canada completed the App Challenge.
+  <br /><br />
+
+  The source code and documentation for each team has been added to the <a href="{{ challenge_ghurl }}">GitHub repository</a> for the {{ year }} challenge.  Below you will find a profile for each of this year's teams, along with details about the team members and the apps that they created.  Included with each profile is a video presentation created by the team to promote and demonstrate their app, and links are provided to access live demonstrations of their applications.
+
+    {% for team in teams %}
+      {% unless schools contains team.school %}
+        {% assign schools = schools | push: team.school %}
+      {% endunless %}
+    {% endfor %}
+
+    {% for school in schools %}
+      <h3>{{ school }}</h3>
+      <ul>
+      {% assign schoolteams = site.appchallenge | where:"category", "team" | where:"year", page.year  | where:"school", school %}
+      {% for team in schoolteams %}
+        <li><span><a href="{{ team.url | replace:"index.html", "" }}">{% if team.prependteam %}Team {% endif %}{{ team.name }}</a></span>{% if team.winner %}<span style="font-weight:bold;"> - {% if team.winner == 1 %}WINNER{% elsif team.winner == 2 %}1st Runner-Up{% elsif team.winner == 3 %}2nd Runner-Up{% endif %}</span>{% endif %} |
+          {% assign lastmember = team.members | last %}
+          {% for member in team.members %}
+            {% if member.name == lastmember.name %}
+              {{ member.name }}
+            {% else %}
+              {{ member.name | append: ", " }}
+            {% endif %}
+          {% endfor %}
+        </li>
+      {% endfor %}
+      </ul>
+    {% endfor %}
+</div>
