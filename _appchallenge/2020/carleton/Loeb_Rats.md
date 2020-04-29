@@ -22,10 +22,10 @@ demo:
   hidden: no
 
 docs:
-  - name: README.docx
-    file: README.docx
-    readme: no
-    ispage: yes
+  - name: README.md
+    file: README.md
+    readme: yes
+    ispage: no
 ---
 
 Hosted in ArcGIS Online:
