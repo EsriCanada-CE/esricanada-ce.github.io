@@ -24,6 +24,8 @@ Aman is a candidate for Masters in department of Earth & Space Science Engineeri
 
 Amirhossein is a Masters student in the Department of Earth and Space Science Engineering at York University. Experienced Computer Vision, Deep Learning, Network Analysis with a focus on Location Based Services .Skilled at Java, Node.js, MongoDB. Self-motivated and determined type which always ready to face the challenges with a problem-solving manner. try hard to stay away from the unhealthy and disturbing status quo of the society and do best to find ways to upgrade people and life to a higher level."
 
+winner: 2
+
 demo:
   url: "app/"
   github: yes

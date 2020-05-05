@@ -18,6 +18,8 @@ members:
     photo: "chloe.jpg"
     bio: "Chloe is a 1st year undergraduate student at U of T studying Computer Science. She was a developer for this project. She has an interest in data science and her hobbies include dance, martial arts, chess and piano."
 
+winner: 1
+
 demo:
   url: "app/"
   github: yes

@@ -18,6 +18,8 @@ members:
     photo: "livia.jpg"
     bio: "I am a 4th year undergraduate student in the Honours Life Science program pursuing a minor in GIS. Throughout my studies, I have taken a variety of courses including Environmental Change & Human Health and Global Human Health & Disease which I hope to apply to this challenge. In the future, I would like to become a biomedical illustrator as I am interested in the visualization of science and data. Outside of class, I enjoy watercolour painting, sketching wildlife and playing video games."
 
+winner: 3
+
 demo:
   url: "app/"
   github: yes

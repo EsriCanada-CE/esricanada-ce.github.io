@@ -16,6 +16,8 @@ members:
 school: University of Calgary
 videoid: Biwo4dORvZU
 
+winner: 3
+
 demo:
   url: "app/"
   github: yes
