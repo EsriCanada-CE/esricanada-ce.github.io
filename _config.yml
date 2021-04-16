@@ -2,7 +2,6 @@
 title:        ECCE (on GitHub)
 tagline:      Fostering innovation and excellence in GIS
 baseurl:      ""
-paginate:     1
 githuburl:    https://github.com/EsriCanada-CE
 ghpagesroot:  https://esricanada-ce.github.io
 
