@@ -6,6 +6,7 @@ school: Western University
 name: M.U.G. (Mustang Undergraduate Geographers)
 prependteam: no
 suffix: no
+reposlug: Mustang_Undergraduate_Geographers
 permalink: appchallenge/2021/teams/western/Mustang_Undergraduate_Geographers/
 videoid: 0doD69NTs_k
 appname: London Newcomers Guide
