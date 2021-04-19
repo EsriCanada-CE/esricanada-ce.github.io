@@ -8,7 +8,7 @@ prependteam: no
 suffix: no
 permalink: appchallenge/2021/teams/mac/Titans_East/
 videoid: Qwmrt8oIUgs
-appname: inEQUALITY: Reduce Income Inequalities
+appname: "inEQUALITY: Reduce Income Inequalities"
 reposlug: null
 members:
   - name: "Tianqi Qu"
