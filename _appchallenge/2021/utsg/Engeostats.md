@@ -27,8 +27,8 @@ docs:
   - name: README.md
     file: README.md
     readme: yes
-  - name: presentation.docx
-    file: presentation.docx
+  - name: presentation.pptx
+    file: presentation.pptx
     ismd: no
     ispage: no
   - name: max_field.py
