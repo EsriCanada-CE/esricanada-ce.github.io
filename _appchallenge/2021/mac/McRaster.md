@@ -8,7 +8,7 @@ prependteam: no
 suffix: no
 permalink: appchallenge/2021/teams/mac/McRaster/
 videoid: dCfBOUyGpb8
-appname: Equapolis: A Tracker for Exposure and Awareness of Inequity in Toronto
+appname: "Equapolis: A Tracker for Exposure and Awareness of Inequity in Toronto"
 reposlug: null
 members:
   - name: "Madinakhon (Madina) Sulaymonova"
