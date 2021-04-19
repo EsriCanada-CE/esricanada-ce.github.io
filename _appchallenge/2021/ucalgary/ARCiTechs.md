@@ -6,7 +6,7 @@ school: University of Calgary
 name: ARCiTechs
 prependteam: no
 suffix: no
-permalink: appchallenge/2021/teams/SCHOOL_ACRONYM/TEAM_REPO_NAME/
+permalink: appchallenge/2021/teams/ucalgary/ARCiTechs/
 videoid: 3HgyKL8T6YE
 appname: "kNOwH2O: Tracking Water Quality Advisories and Improvements in Canadian Indigenous Communities"
 reposlug: null
