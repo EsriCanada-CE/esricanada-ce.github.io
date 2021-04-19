@@ -8,7 +8,7 @@ prependteam: no
 suffix: no
 permalink: appchallenge/2021/teams/sfu/EqualiTeam/
 videoid: xC2RAtAnNvg
-appname: Ekoalaty: Reducing Inequalities
+appname: "Ekoalaty: Reducing Inequalities"
 reposlug: null
 photo: team.png
 members:
