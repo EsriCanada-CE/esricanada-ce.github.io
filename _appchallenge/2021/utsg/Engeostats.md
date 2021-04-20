@@ -27,10 +27,10 @@ docs:
   - name: README.md
     file: README.md
     readme: yes
-  - name: presentation.pptx
-    file: presentation.pptx
-    ismd: no
-    ispage: no
+#  - name: presentation.pptx
+#    file: presentation.pptx
+#    ismd: no
+#    ispage: no
   - name: max_field.py
     file: ../src/max_field.py
     readme: no
