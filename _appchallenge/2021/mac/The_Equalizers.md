@@ -30,10 +30,10 @@ docs:
   - name: README.md
     file: README.md
     readme: yes
-  - name: I-Cubed Mission Statement.pdf
-    file: I-Cubed%20Mission%20Statement.pdf
-    readme: no
-    ispage: no
+#  - name: I-Cubed Mission Statement.pdf
+#    file: I-Cubed%20Mission%20Statement.pdf
+#    readme: no
+#    ispage: no
 
 ---
 
