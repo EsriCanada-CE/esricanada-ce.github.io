@@ -20,7 +20,7 @@ members:
     photo: logan.jpg
 
 demo:
-  url: "webapp/"
+  url: "webpage/"
   github: yes
   hidden: no
 
