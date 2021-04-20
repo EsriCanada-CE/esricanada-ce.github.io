@@ -43,7 +43,7 @@ Hosted on GitHub:
 
 Hosted on ArcGIS Online:
 
-- Story map: [https://mcmaster.maps.arcgis.com/apps/Cascade/index.html?appid=f3dda44c115048b1b03cbb2e078be1b5](https://mcmaster.maps.arcgis.com/apps/Cascade/index.html?appid=f3dda44c115048b1b03cbb2e078be1b5)
+- Mission Statement Story map: [https://arcg.is/1LSzvf0](https://arcg.is/1LSzvf0)
 
 ---
 
