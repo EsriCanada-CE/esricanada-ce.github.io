@@ -28,16 +28,16 @@ docs:
   - name: README.md
     file: README.md
     readme: yes
-  - name: Mission Statement_Statement of Characteristics.docx
-    file: Mission%20Statement_Statement%20of%20Characteristics.docx
-    ismd: no
-    ispage: no
+#  - name: Mission Statement_Statement of Characteristics.docx
+#    file: Mission%20Statement_Statement%20of%20Characteristics.docx
+#    ismd: no
+#    ispage: no
 
 ---
 
 Hosted on GitHub:
 
-- Main app: [https://esricanada-ce.github.io/ecce-app-challenge-2021/World_Health_Organization/app/](https://esricanada-ce.github.io/ecce-app-challenge-2021/World_Health_Organization/app/)
+- Main app: [https://esricanada-ce.github.io/ecce-app-challenge-2021/Waterloo_Health_Organization/app/](https://esricanada-ce.github.io/ecce-app-challenge-2021/Waterloo_Health_Organization/app/)
 
 Hosted in ArcGIS Online:
 
