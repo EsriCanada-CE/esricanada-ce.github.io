@@ -20,7 +20,7 @@ members:
     photo: logan.jpg
 
 demo:
-  url: "app/"
+  url: "webapp/"
   github: yes
   hidden: no
 
@@ -36,6 +36,8 @@ docs:
 ---
 
 Hosted on GitHub:
+
+- Main webpage: [https://esricanada-ce.github.io/ecce-app-challenge-2021/Waterloo_Health_Organization/webpage/](https://esricanada-ce.github.io/ecce-app-challenge-2021/Waterloo_Health_Organization/webpage/)
 
 - Main app: [https://esricanada-ce.github.io/ecce-app-challenge-2021/Waterloo_Health_Organization/app/](https://esricanada-ce.github.io/ecce-app-challenge-2021/Waterloo_Health_Organization/app/)
 
