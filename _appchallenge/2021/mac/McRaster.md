@@ -19,7 +19,7 @@ members:
     photo: angelina.jpg
   - name: "Olivia Maddigan"
     bio: "I am a third year Geography and Environmental Sciences student currently in co-op, working as a GIS Technician. I am extremely passionate about using technology to help better our environment and hope to use this challenge as an opportunity to pursue that. My hobbies include reading obscure Wikipedia pages, shooting hoops, and playing with my 3 month old kitten."
-    photo: olivia.jpg
+    photo: olivia.png
 
 demo:
   url: "app/"
@@ -30,10 +30,10 @@ docs:
   - name: README.md
     file: README.md
     readme: yes
-  - name: Team McRaster (Equapolis) Documentation.pdf
-    file: Team%20McRaster%20(Equapolis)%20Documentation.pdf
-    readme: no
-    ispage: no
+#  - name: Team McRaster (Equapolis) Documentation.pdf
+#    file: Team%20McRaster%20(Equapolis)%20Documentation.pdf
+#    readme: no
+#    ispage: no
 
 ---
 
