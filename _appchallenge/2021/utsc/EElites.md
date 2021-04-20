@@ -28,13 +28,13 @@ docs:
     file: README.md
     readme: yes
   - name: Statement of Characteristics.docx
-    file: Statement%20ofA%20Characteristics.docx
+    file: Statement%20of%20Characteristics.docx
     ismd: no
     ispage: no
-  - name: Team Mission Statement.docx
-    file: Team%20Mission%20Statement.docx
-    ismd: no
-    ispage: no
+#  - name: Team Mission Statement.docx
+#    file: Team%20Mission%20Statement.docx
+#    ismd: no
+#    ispage: no
 
 ---
 
