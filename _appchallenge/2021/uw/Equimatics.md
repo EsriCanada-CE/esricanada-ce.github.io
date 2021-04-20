@@ -34,8 +34,8 @@ docs:
 
 Hosted on GitHub:
 
-- Main webpage: [app/](app/)
-- Food Desert Solver app: [app/government/esri/](app/government/esri/)
+- Main webpage: [https://esricanada-ce.github.io/ecce-app-challenge-2021/Equimatics/app/](https://esricanada-ce.github.io/ecce-app-challenge-2021/Equimatics/app/)
+- Food Desert Solver app: [https://esricanada-ce.github.io/ecce-app-challenge-2021/Equimatics/app/government/esri/](https://esricanada-ce.github.io/ecce-app-challenge-2021/Equimatics/app/government/esri/)
 
 Hosted on Firebase:
 
