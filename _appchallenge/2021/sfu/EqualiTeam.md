@@ -28,10 +28,10 @@ docs:
   - name: README.md
     file: README.md
     readme: yes
-  - name: Mission%20Statement%20and%20App%20Characteristics.docx
-    file: Mission%20Statement%20and%20App%20Characteristics.docx
-    ismd: no
-    ispage: no
+#  - name: Mission Statement and App Characteristics.docx
+#    file: Mission%20Statement%20and%20App%20Characteristics.docx
+#    ismd: no
+#    ispage: no
 
 ---
 
@@ -41,7 +41,7 @@ Hosted on GitHub:
 
 Hosted in ArcGIS Online:
 
-- Main app: [https://simonfraseru.maps.arcgis.com/apps/webappviewer/index.html?id=f8e5e938d5164236b1bdc1516bb4b6cc](https://simonfraseru.maps.arcgis.com/apps/webappviewer/index.html?id=f8e5e938d5164236b1bdc1516bb4b6cc)
+- Main app: [https://www.arcgis.com/apps/webappviewer/index.html?id=f8e5e938d5164236b1bdc1516bb4b6cc](https://www.arcgis.com/apps/webappviewer/index.html?id=f8e5e938d5164236b1bdc1516bb4b6cc)
 
 ---
 
