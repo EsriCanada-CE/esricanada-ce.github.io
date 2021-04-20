@@ -31,11 +31,11 @@ docs:
 #    file: presentation.pptx
 #    ismd: no
 #    ispage: no
-  - name: max_field.py
-    file: ../src/max_field.py
-    readme: no
-    ismd: yes
-    ispage: no
+#  - name: max_field.py
+#    file: ../src/max_field.py
+#    readme: no
+#    ismd: yes
+#    ispage: no
 
 ---
 
