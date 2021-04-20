@@ -26,16 +26,16 @@ docs:
   - name: README.md
     file: README.md
     readme: yes
-  - name: MissionStatement.md
-    file: MissionStatement.md
-    readme: no
-    ismd: yes
-    ispage: no
-  - name: StatementAppealingInterestingUseful.md
-    file: StatementAppealingInterestingUseful.md
-    readme: no
-    ismd: yes
-    ispage: no
+#  - name: MissionStatement.md
+#    file: MissionStatement.md
+#    readme: no
+#    ismd: yes
+#    ispage: no
+#  - name: StatementAppealingInterestingUseful.md
+#    file: StatementAppealingInterestingUseful.md
+#    readme: no
+#    ismd: yes
+#    ispage: no
 
 ---
 
