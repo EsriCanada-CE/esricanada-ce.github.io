@@ -15,7 +15,7 @@ members:
     bio: "Elliot is a 4th-year undergraduate student at U of T studying City Studies, Statistics, and GIS. He helped develop this app, exploring the functionalities of ArcGIS online and applying spatial analysis techniques. He hopes in the future to utilize these skills in future projects. His interests are in urban planning and data sciences and enjoys travelling and hiking."
     photo: elliot.jpg
   - name: "Eva Yamamoto"
-    bio: "Eva is a 4th year undergraduate student at U of T studying Environmental Science, Environmental Studies, and GIS. She first became interested in GIS when she attended a spatial talk webinar series hosted by Wo-Men Geospatial Coterie (WGC) where they discussed opportunities and challenges for women in geospatial sciences. She hopes in the future to be able to further expand her own knowledge in the field of Natural Sciences and integrate it using geospatial technologies. In her spare time, you can catch her hanging out with friends and family, playing sports like volleyball and tennis, taking on spontaneous adventures and travel."
+    bio: "Eva is a 4th-year undergraduate student at U of T studying Environmental Science, Environmental Studies, and GIS. She first became interested in GIS when she attended a spatial talk webinar series hosted by Wo-Men Geospatial Coterie (WGC) where they discussed opportunities and challenges for women in geospatial sciences. She hopes in the future to be able to further expand her own knowledge in the field of Natural Sciences and integrate it using geospatial technologies. In her spare time, you can catch her hanging out with friends and family, playing sports like volleyball and tennis, taking on spontaneous adventures and travel."
     photo: eva.jpg
 
 demo:
