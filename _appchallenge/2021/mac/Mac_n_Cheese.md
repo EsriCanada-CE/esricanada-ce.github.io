@@ -3,10 +3,10 @@ layout: appchallengeteam_2021
 year: 2021
 category: team
 school: McMaster University
-name: Error-999999
+name: Mac n Cheese
 prependteam: no
 suffix: no
-permalink: appchallenge/2021/teams/mac/Error-999999/
+permalink: appchallenge/2021/teams/mac/Mac_n_Cheese/
 videoid: mSsHh7uI8vM
 appname: Air Pollution Inequality GeoHub
 reposlug: null
