@@ -32,6 +32,8 @@ docs:
     ismd: yes
     ispage: no
 
+winner: 2
+
 ---
 
 Hosted in ArcGIS Online:

@@ -35,6 +35,8 @@ docs:
 #    readme: no
 #    ispage: no
 
+winner: 2
+
 ---
 
 Hosted on GitHub:

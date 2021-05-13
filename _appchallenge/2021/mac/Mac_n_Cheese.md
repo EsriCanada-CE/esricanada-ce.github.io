@@ -31,6 +31,8 @@ docs:
     file: README.md
     readme: yes
 
+winner: 1
+
 ---
 
 Hosted in ArcGIS Online:
