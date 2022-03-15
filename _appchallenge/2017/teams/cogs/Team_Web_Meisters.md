@@ -8,13 +8,13 @@ appname: Sustainable Transportation Halifax
 members:
   - name: "Liam Osler"
     bio: "From Dartmouth, Nova Scotia. Currently attending the Centre of Geographic Sciences studying Surveying."
-	photo: liam.jpg
+    photo: liam.jpg
   - name: "Kate MacLachlan"
     bio: "From Niagara-on-the-Lake, Ontario. Completed a Bachelor of Arts majoring in Geography at Memorial University of Newfoundland and Labrador, currently attending the Centre of Geographic Sciences doing an Advanced Geographic Information Systems diploma."
-	photo: kate.jpg
+    photo: kate.jpg
   - name: "Laura Day"
     bio: "From Upper Rawdon, Nova Scotia. Completed a Bachelor of Science majoring in Geography at Memorial University of Newfoundland and Labrador, currently attending the Centre of Geographic Sciences doing an Advanced Geographic Information Systems diploma."
-	photo: laura.jpg
+    photo: laura.jpg
 
 school: Centre of Geographic Sciences, NSCC
 videoid: XWUw68_aXRU
