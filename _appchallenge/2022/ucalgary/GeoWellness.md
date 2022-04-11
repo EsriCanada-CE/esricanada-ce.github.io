@@ -8,7 +8,7 @@ prependteam: no
 photo: no
 permalink: appchallenge/2022/teams/ucalgary/GeoWellness/
 appname: GeoWellness
-videoid: 6xxcVDnTaL4
+videoid: r0QsnYI66XQ
 members:
   - name: "Wenxuan Zhu (Vanessa)"
     bio: "Vanessa is a first-year Master student in the Department of Geomatics Engineering at the University of Calgary. She received her BES in Geomatics at the University of Waterloo, where she worked on the pavement inspection using mobile laser scanning point clouds. Her current research interests are in geospatial data analysis and mapping linear features on modern geospatial reference frameworks."
