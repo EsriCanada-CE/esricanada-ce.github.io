@@ -18,3 +18,6 @@ host: 0.0.0.0
 collections:
   appchallenge:
     output: true
+
+exclude:
+  - _appchallenge/2022/example_team.md

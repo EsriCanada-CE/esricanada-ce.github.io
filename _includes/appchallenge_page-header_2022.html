@@ -1,7 +1,7 @@
 <section class="page-header">
   {% assign team = page %}
   {% assign challenge = site.appchallenge | where:"category", "challenge" | where:"year", team.year | first %}
-  {% if team.reposlug == nil %}{% assign teamslug = team.name | replace:' ', '_' | replace:"'", '' | replace:",", '' %}{% else %}{% assign teamslug = team.reposlug %}{% endif %}
+  {% if team.reposlug == nil %}{% assign teamslug = team.name | replace:' ', '_' | replace:",", '' %}{% else %}{% assign teamslug = team.reposlug %}{% endif %}
   {% if team.prependteam %}{% assign teamslug = "Team_" | append: teamslug %}{% endif %}
   {% if team.suffix != nil %}{% if team.suffix %}{% assign teamslug = teamslug | append: "_" | append: team.suffix %}{% endif %}{% endif %}
   {% if team.year == 2017 %}{% assign teamslug = teamslug | replace:'-', '_' %}{% endif %}
