@@ -8,7 +8,12 @@ prependteam: no
 photo: no
 permalink: appchallenge/2022/teams/bcit/emerGIScy_COORDINATE-ors/
 appname: D. R. Aware
-videoid: SjJWGv5_pTk
+videoid: FaTuPvf9N4c
+
+
+extravideos:
+  - videoid: SjJWGv5_pTk
+
 members:
   - name: "Ben Schager"
     bio: "Ben is a student in the Advanced Diploma program at BCIT. As a former neuroscientist who didn't have the brains for science, GIS provided an avenue for Ben to pursue a lingering interest in generating, analyzing, and presenting data while working in an industry where one doesn’t often need to go the lab at 2 in the morning. Ben graduated with a BASC from Quest University Canada and a MSc from the University of Victoria, both studying neuroscience. Naturally, given his educational background, Ben has worked extensively in forestry. It was there that he discovered and fell in love with GIS and the problems that it was created to solve. If you want to see Ben when he isn’t tinkering with some script, studying, or reading a book, you will have to ask him to go for a bike ride. Fair warning: He will probably try to persuade you to go for a beer afterward!"
