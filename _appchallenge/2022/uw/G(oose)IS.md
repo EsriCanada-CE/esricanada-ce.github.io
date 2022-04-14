@@ -22,7 +22,7 @@ members:
 
 demo:
   url: "https://relinker-uwaterloo.hub.arcgis.com/"
-  github: yes
+  github: no
   hidden: no
 
 docs:
