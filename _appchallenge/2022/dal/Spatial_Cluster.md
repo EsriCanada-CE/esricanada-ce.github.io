@@ -54,5 +54,3 @@ Floods are the most commonly occurring natural disaster in Canada and pose a thr
 ## Our Goal
 
 The goal of the Spatial Cluster Application is to inform its viewers of issues surrounding flood disasters within the province of Nova Scotia. The application provides details surrounding historic events, the associated risks involved with floods, elements to assist in flood prediction, and finally, provides the user with important information on how to prepare in the case of emergency and what to do in the aftermath of a flood.
-
-With the increase pressures from climate change on the natural environment, effective wildfire management and planning will be dependent on the knowledge of First Nations and their peoples. Many calls to action have surfaced from First Nation Chiefs and communities across the province of British Columbia, to revive the practice of Indigenous Fire Management; the time to facilitate the knowledge sharing between those who understand the land best and the wider Canadian population is now.
