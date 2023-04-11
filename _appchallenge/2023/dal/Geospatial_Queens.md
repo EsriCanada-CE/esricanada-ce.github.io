@@ -5,7 +5,7 @@ category: team
 school: Dalhousie University
 name: Geospatial Queens
 prependteam: no
-photo: yes
+photo: team.jpg
 permalink: appchallenge/2023/teams/dal/Geospatial_Queens/
 appname: Hali Grow
 videoid: kNFRHdGF1lk
