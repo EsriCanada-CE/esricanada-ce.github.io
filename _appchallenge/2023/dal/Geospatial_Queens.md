@@ -33,7 +33,7 @@ docs:
 
 Hosted in ArcGIS Online:
 
-- [https://www.arcgis.com/apps/instant/interactivelegend/index.html?appid=0541d24079bf40e7b81639879bb49a28&locale=en](https://www.arcgis.com/apps/instant/interactivelegend/index.html?appid=0541d24079bf40e7b81639879bb49a28&locale=en)
+- HaliGrow: [https://www.arcgis.com/apps/instant/interactivelegend/index.html?appid=0541d24079bf40e7b81639879bb49a28&locale=en](https://www.arcgis.com/apps/instant/interactivelegend/index.html?appid=0541d24079bf40e7b81639879bb49a28&locale=en)
 
 ---
 
