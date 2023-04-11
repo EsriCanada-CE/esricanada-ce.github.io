@@ -31,6 +31,8 @@ docs:
     readme: yes
     ispdf: no
     ishtml: no
+
+winner: 2
 ---
 
 Hosted on GitHub:

@@ -47,6 +47,8 @@ docs:
     ismd: no
     ispage: no
 
+winner: 3
+
 ---
 
 Hosted in ArcGIS Online:
