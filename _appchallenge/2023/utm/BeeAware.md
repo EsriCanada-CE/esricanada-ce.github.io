@@ -43,7 +43,7 @@ docs:
 
 Hosted in ArcGIS Online:
 
-- BeeAware App: https://arcg.is/1fXqDu0
+- BeeAware App: [https://www.arcgis.com/apps/webappviewer/index.html?id=b92a0360398d40fb95f94551159b4000](https://www.arcgis.com/apps/webappviewer/index.html?id=b92a0360398d40fb95f94551159b4000)
 
 ---
 
