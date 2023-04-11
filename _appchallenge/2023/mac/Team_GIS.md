@@ -3,7 +3,7 @@ layout: appchallengeteam_2023
 year: 2023
 category: team
 school: McMaster University
-name: "GIS: Gauging Impacted Species"
+name: "GIS Gauging Impacted Species"
 prependteam: yes
 photo: no
 permalink: appchallenge/2023/teams/mac/Team_GIS/
