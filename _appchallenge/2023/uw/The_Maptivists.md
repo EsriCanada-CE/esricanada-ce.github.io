@@ -35,14 +35,11 @@ docs:
 
 ---
 
-Hosted on ArcGIS Storymaps:
+Hosted on ArcGIS Online:
 
-https://storymaps.arcgis.com/collections/9cf96ad417da444f90d6650d4e6dfff3
+- HoneyHome StoryMap: [https://storymaps.arcgis.com/collections/9cf96ad417da444f90d6650d4e6dfff3](https://storymaps.arcgis.com/collections/9cf96ad417da444f90d6650d4e6dfff3)
+- HoneyHome WebApp: [https://arcgis.com/apps/webappviewer/index.html?id=5fa25203a4f94331aafaff5ba531cb33](https://arcgis.com/apps/webappviewer/index.html?id=5fa25203a4f94331aafaff5ba531cb33)
 
-
-Hosted on Arcgis WebAppBuilder
-
-https://arcgis.com/apps/webappviewer/index.html?id=5fa25203a4f94331aafaff5ba531cb33
 ---
 
 ## Mission Statement
