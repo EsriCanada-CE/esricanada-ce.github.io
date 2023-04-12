@@ -42,7 +42,7 @@ Hosted in ArcGIS Online:
 
 
 Hosted in GitHub
-- Project Website: [https://github.com/adamreidsmith/ecce-app-challenge](https://github.com/adamreidsmith/ecce-app-challenge)
+- Project Website: [https://adamreidsmith.github.io/ecce-app-challenge/](https://adamreidsmith.github.io/ecce-app-challenge/)
 
 ---
 
