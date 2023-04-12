@@ -7,7 +7,7 @@ name: UNB
 prependteam: yes
 photo: no
 permalink: appchallenge/2023/teams/unb/Team_UNB/
-appname: Cool Toronto
+appname: TREEHOME
 videoid: xG4yQXMp5F0
 members:
   - name: "Dechen Wangmo"
