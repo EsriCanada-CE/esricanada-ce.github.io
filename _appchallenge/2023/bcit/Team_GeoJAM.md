@@ -28,7 +28,8 @@ docs:
     readme: yes
     ispdf: no
     ishtml: no
-
+    
+winner: 1
 ---
 
 Hosted in ArcGIS Online
