@@ -7,7 +7,7 @@ name: UNB # Omit 'Team' as a first word...even if they specifically named themse
 prependteam: yes  # 'yes' if 'Team_' should be prepended to the team's name (i.e., they specifically named themselves "Team X" instead of just "X")
 photo: no  # The filename of a group photo for the team, if provided (e.g., team.jpg)...expected to be located inside the images folder in the team's repo.
 permalink: appchallenge/2024/teams/unb/Team_UNB/  # Don't forget to update the school short-code in the URL...
-appname: Urban Expansion Explorer
+appname: Fredericton Climate Change 3D Urban FloodWatch
 videoid: 91MHrcoD_bQ  # Video needs to be uploaded to YouTube first to get this ID
 members:  # for each member:
   - name: "Ngoc Phan (Jennie)"
@@ -44,7 +44,7 @@ docs: # Some teams will provide multiple documents...with the exception of the R
 
 Hosted in ArcGIS Online:
 
-- Urban Expansion Explorer: [https://urban-expansion-explorer-teamunb-unbgis.hub.arcgis.com/](https://urban-expansion-explorer-teamunb-unbgis.hub.arcgis.com/)
+- Fredericton Climate Change 3D Urban FloodWatch: [https://urban-expansion-explorer-teamunb-unbgis.hub.arcgis.com/](https://urban-expansion-explorer-teamunb-unbgis.hub.arcgis.com/)
 
 ---
 
