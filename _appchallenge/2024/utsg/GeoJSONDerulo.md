@@ -10,7 +10,7 @@ permalink: appchallenge/2024/teams/utsg/GeoJSONDerulo/  # Don't forget to update
 appname: BIAdvocate T.O.
 videoid: ec07vtQfJTw  # Video needs to be uploaded to YouTube first to get this ID
 members:  # for each member:
-  - name: "Charlotte Kafka-Gibbon"
+  - name: "Charlotte Kafka-Gibbons"
     bio: "I am currently in my last year of undergrad with majors in Ecology/Evolutionary Biology and Environmental Ethics. I added a GIS minor after taking a spatial analysis course for my EEB major which sparked my interest and got me hooked on maps. Currently, I am a research assistant for the Urban Genome Project, specifically studying how cultural meanings of invasive species are created. I hope to work with GIS in future positions, and continue my education in geospatial systems. Outside of academics, I love working as a barista/line-cook, biking, knitting, and traveling with friends."
   - name: "Sarah Chen"
     bio: "I am in my fourth year at the University of Toronto with a major in Environmental Geography and minors in GIS and Contemporary Asian Studies. I currently work as a GIS intern at the Canadian Urban Environmental Health Research Consortium (CANUE) and serve as the Co-President to the Toronto Undergraduate Geography Society (TUGS). I am passionate in applying GIS spatial analysis tools to understand environmental justice issues in an urban context. Outside of school you can find me in dance classes, running, or baking."
