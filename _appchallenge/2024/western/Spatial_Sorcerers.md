@@ -3,7 +3,7 @@ layout: appchallengeteam_2024
 year: 2024
 category: team
 school: Western University
-name: Spatial_Sorcerers # Omit 'Team' as a first word...even if they specifically named themselves "Team X"
+name: Spatial Sorcerers # Omit 'Team' as a first word...even if they specifically named themselves "Team X"
 prependteam: no  # 'yes' if 'Team_' should be prepended to the team's name (i.e., they specifically named themselves "Team X" instead of just "X")
 photo: team.png  # The filename of a group photo for the team, if provided (e.g., team.jpg)...expected to be located inside the images folder in the team's repo.
 permalink: appchallenge/2024/teams/western/Spatial_Sorcerers/  # Don't forget to update the school short-code in the URL...
