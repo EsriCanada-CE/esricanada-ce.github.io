@@ -1,12 +1,12 @@
 ---
-layout: appchallengeteam_2023
-year: 2023
+layout: appchallengeteam_2024
+year: 2024
 category: team
 school: Full School Name
 name: Team Name # Omit 'Team' as a first word...even if they specifically named themselves "Team X"
 prependteam: no  # 'yes' if 'Team_' should be prepended to the team's name (i.e., they specifically named themselves "Team X" instead of just "X")
 photo: no  # The filename of a group photo for the team, if provided (e.g., team.jpg)...expected to be located inside the images folder in the team's repo.
-permalink: appchallenge/2023/teams/utm/Clever_Cartographers_sample/  # Don't forget to update the school short-code in the URL...
+permalink: appchallenge/2024/teams/utm/Clever_Cartographers_sample/  # Don't forget to update the school short-code in the URL...
 appname: Cool Toronto
 videoid: xxxxxxxxxxx  # Video needs to be uploaded to YouTube first to get this ID
 members:  # for each member:
