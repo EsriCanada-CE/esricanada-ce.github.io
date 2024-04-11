@@ -38,7 +38,7 @@ docs: # Some teams will provide multiple documents...with the exception of the R
 
 Hosted on GitHub:
 
-- [https://esricanada-ce.github.io/ecce-app-challenge-2023/Team_Name/app/](https://esricanada-ce.github.io/ecce-app-challenge-2023/Team_Name/app/){:target="_blank"}
+- [https://esricanada-ce.github.io/ecce-app-challenge-2024/Team_Name/app/](https://esricanada-ce.github.io/ecce-app-challenge-2024/Team_Name/app/){:target="_blank"}
 
 Hosted in ArcGIS Online:
 
