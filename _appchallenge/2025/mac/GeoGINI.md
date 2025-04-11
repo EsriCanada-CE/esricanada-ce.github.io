@@ -8,7 +8,7 @@ prependteam: no  # 'yes' if 'Team_' should be prepended to the team's name (i.e.
 photo: team.jpg  # The filename of a group photo for the team, if provided (e.g., team.jpg)...expected to be located inside the images folder in the team's repo.
 permalink: appchallenge/2025/teams/mac/GeoGINI/  # Don't forget to update the school short-code in the URL...
 appname: HomeInsight
-videoid: LjzruQdyhvs  # Video needs to be uploaded to YouTube first to get this ID
+videoid: KzwP2JJLBxs  # Video needs to be uploaded to YouTube first to get this ID
 members:  # for each member:
   - name: "Matthew Kastanis"
     bio: "(Right) I recently graduated from McMaster University in the Honours Environmental Science program with a focus in Geographic Information Systems (GIS). I am passionate about GIS because of its ability to solve complex challenges at different scales, such as natural disasters. Outside of my academic work, I love learning how to garden, rock climbing with friends, and enjoying walks with my family."
