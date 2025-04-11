@@ -10,9 +10,6 @@ permalink: appchallenge/2025/teams/utsg/ZWO_Charge/  # Don't forget to update th
 appname: Toronto EV Charging Accessibility Map
 videoid: 5R2L5uvfbGw  # Video needs to be uploaded to YouTube first to get this ID
 members:  # for each member:
-  - name: "Oliver Siebertz"
-    bio: "I am in my fourth year at the University of Toronto, with a major in Urban Studies and minors in GIS and Forestry. My interests in my studies are mostly in the transportation planning area, as well as infrastructure and housing. GIS helps bolster my studies by allowing for visual representation of data and I use it whenever I get a chance throughout all classes. In my free time I enjoy fishing, skiing and other outdoor activities."
-    photo: oliver.jpg  # if team provided individual images, the image named here should exist in the images folder in the team's repo.
   - name: "William Chan"
     bio: "I’m currently in my fourth year at the University of Toronto, majoring in Human Geography and Political Science, with a minor in GIS. My academic interests are rooted in economic geography and political economy, with a particular focus on the role of government in economic development. GIS greatly complements these interests by providing powerful tools for visualizing and analyzing the spatial patterns of economic activities. In my free time, I love immersing myself in nature and taking long walks through the streets of Toronto. As the hibernation season approaches, however, I enjoy staying cozy indoors with a good book and a cup of coffee."
     photo: william.jpg  # if team provided individual images, the image named here should exist in the images folder in the team's repo.
