@@ -21,8 +21,8 @@ members:  # for each member:
     photo: thiviya.jpg  # if team provided individual images, the image named here should exist in the images folder in the team's repo.
 
 demo:
-  url: "app/"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
-  github: yes # if "yes", the url above is presumed to be a path relative to the gh_pages URL for the team in GitHub...otherwise, a full URL is expected.
+  url: "https://storymaps.arcgis.com/stories/3c3821afbf6e4a249b1114d677da5673"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
+  github: no # if "yes", the url above is presumed to be a path relative to the gh_pages URL for the team in GitHub...otherwise, a full URL is expected.
   hidden: no  # "yes" if this app does not really have a live demo (e.g., mobile/AppStudio apps)
 
 docs: # Some teams will provide multiple documents...with the exception of the README.md, these are generally expected to be in a docs/ subfolder of their repo
