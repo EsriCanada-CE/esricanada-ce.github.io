@@ -18,7 +18,7 @@ members:  # for each member:
     bio: "(bottom right meatball) I am currently completing my Advanced Diploma in GIS as a full-time student at BCIT with a practicum at Kerr Wood Leidal, where I am offering consulting services for water engineering clients. I graduated last year in 2024 with a BA in Environmental Geography and GIS at the University of Toronto. During this time, I used ESRI tools to develop an urban accessibility project with CANUE and conducted archival research to assess colonial land histories. I am passionate about continuing to address environmental equity concerns in my career by using GIS to democratize data and develop tools to sustainably aid disadvantaged communities. Outside of school you can find me cafe hopping, thrifting, and dancing at drop-in classes. "
     
 demo:
-  url: "https://storymaps.arcgis.com/stories/0ff91dcdcd7b43d2bc81294988dcdf54"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
+  url: "https://experience.arcgis.com/experience/ecb198cd36854420aa3ac703c5d59836"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
   github: no # if "yes", the url above is presumed to be a path relative to the gh_pages URL for the team in GitHub...otherwise, a full URL is expected.
   hidden: no  # "yes" if this app does not really have a live demo (e.g., mobile/AppStudio apps)
 
