@@ -36,7 +36,7 @@ docs: # Some teams will provide multiple documents...with the exception of the R
     ispage: no # Yes if the document should be linked from the root of the repo, otherwise it is expected to be in the /docs subfolder
 
 # when ready, mark the winners/runners-up with the following property (1, 2 or 3 for winners and first/second runners-up):
-# winner: 1
+winner: 2
 ---
 
 Hosted in ArcGIS Online:
