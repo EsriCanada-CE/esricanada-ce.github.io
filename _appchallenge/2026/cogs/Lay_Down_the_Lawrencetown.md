@@ -16,8 +16,8 @@ members:  # for each member:
   - name: "Glenn Gentil"
     bio: "Having grown up in British Columbia, I spent my childhood taking advantage of the beautiful Coast Mountains, using my free time to both ski and bike. Living in such a breathtaking province, I developed a deep appreciation for the land we all share: the way it shapes our culture and history. This fascination led me to pursue further education, where I earned a bachelor’s degree in Geography with a minor in English. Eager to continue honing my skills, I moved all the way across the country to Nova Scotia, where I am now pursuing a graduate certificate in GIS and learning to apply my geospatial knowledge using advanced geoprocessing tools."
     photo: glenn.jpg  # if team provided individual images, the image named here should exist in the images folder in the team's repo.
-  - name: "Full Name of Member"
-    bio: "Adam Nearing - With a background in IT Programming from NSCC and a BFA in Film Studies & Art History from NSCAD University, I’m now at COGS pursuing a Graduate Certificate in GIS. I first discovered the world of GIS midway through my IT studies, which stood out to me as a perfect blend of technical visualization and my curiosity about the world through data. I’m currently a GIS Ambassador for Esri Canada and a committee member for the Geomatics Association of Nova Scotia (GANS), as a way to support and grow the local GIS community. I also enjoy backcountry skiing, winter surfing, cycle touring and thru-hiking, where looking at terrain and weather data has been a big part of my year-round activities."
+  - name: "Adam Nearing"
+    bio: "With a background in IT Programming from NSCC and a BFA in Film Studies & Art History from NSCAD University, I’m now at COGS pursuing a Graduate Certificate in GIS. I first discovered the world of GIS midway through my IT studies, which stood out to me as a perfect blend of technical visualization and my curiosity about the world through data. I’m currently a GIS Ambassador for Esri Canada and a committee member for the Geomatics Association of Nova Scotia (GANS), as a way to support and grow the local GIS community. I also enjoy backcountry skiing, winter surfing, cycle touring and thru-hiking, where looking at terrain and weather data has been a big part of my year-round activities."
     photo: adam.jpg  # if team provided individual images, the image named here should exist in the images folder in the team's repo.
 
 demo:
@@ -50,7 +50,7 @@ docs: # Some teams will provide multiple documents...with the exception of the R
 
 Hosted in ArcGIS Online:
 
-- [https://experience.arcgis.com/experience/117f404f6c914efbb4b236f6ed05fbc3]https://experience.arcgis.com/experience/117f404f6c914efbb4b236f6ed05fbc3)
+- [https://experience.arcgis.com/experience/117f404f6c914efbb4b236f6ed05fbc3](https://experience.arcgis.com/experience/117f404f6c914efbb4b236f6ed05fbc3)
 
 ---
 
