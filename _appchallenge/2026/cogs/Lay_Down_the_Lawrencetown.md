@@ -3,7 +3,7 @@ layout: appchallengeteam_2026
 year: 2026 # after all teams are set up, set this to be +1 year so this example team doesn't show up on the website
 category: team
 school: Centre of Geographic Sciences, NSCC
-name: Lay Down the Law(rencetown) # Omit 'Team' as a first word...even if they specifically named themselves "Team X"
+name: Lay Down the Lawrencetown # Omit 'Team' as a first word...even if they specifically named themselves "Team X"
 prependteam: no  # 'yes' if 'Team_' should be prepended to the team's name (i.e., they specifically named themselves "Team X" instead of just "X")
 photo: no  # The filename of a group photo for the team, if provided (e.g., team.jpg)...expected to be located inside the images folder in the team's repo.
 permalink: appchallenge/2026/teams/cogs/Lay_Down_the_Lawrencetown/  # Don't forget to update the school short-code in the URL...
