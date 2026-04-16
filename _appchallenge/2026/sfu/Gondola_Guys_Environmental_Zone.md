@@ -44,7 +44,7 @@ docs: # Some teams will provide multiple documents...with the exception of the R
 
 Hosted on GitHub:
 
-- [https://esricanada-ce.github.io/ecce-app-challenge-2025/Gondola_Guys_Environmental_Zone/app/](https://esricanada-ce.github.io/ecce-app-challenge-2025/Gondola_Guys_Environmental_Zone/app/){:target="_blank"}
+- [https://esricanada-ce.github.io/ecce-app-challenge-2026/Gondola_Guys_Environmental_Zone/app/](https://esricanada-ce.github.io/ecce-app-challenge-2026/Gondola_Guys_Environmental_Zone/app/){:target="_blank"}
 
 ---
 
