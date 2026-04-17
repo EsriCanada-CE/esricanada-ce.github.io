@@ -69,3 +69,5 @@ Public adoption is a highly user-dependent element of effective transit planning
 City officials can also utilize this tool to enhance public awareness about the proposed transit system and encourage acceptance. The current state of public transit in Halifax has drawn criticism for its congestion and unreliability, and public involvement and engagement can help to improve this moving forward. 
 
 Finally, the app allows planners to model how overall and census-level emissions may change by reconfiguring the fleet to rely on cleaner energy sources, extending the app's capabilities beyond visualizing proposed scenarios towards true simulation functionality. As the City is still in the active planning phase of their transportation changes, this application can maximize impacts and help target the communities that stand to benefit the most from emissions-friendly transportation and provide insights into possible barriers of adoption as the project progresses into implementation.
+
+(citations available in the mission statement document)
