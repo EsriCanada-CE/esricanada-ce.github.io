@@ -58,7 +58,7 @@ Since 2025, the Government of Canada has introduced the **[Canada Strong Pass](h
 
 #### The Dilemma: Traveling to Remote Areas Sustainably and Confidently Without Range Anxiety
 
-As part of 2050 net zero emission commitment, Canada has a mandate to transition to electric vehicles (EVs) to decarbonize transportation. There is also a goal reduce 40-45% of emissions below 2005 levels by 2030 through the **[2030 Emissions Reduction Plan](https://www.canada.ca/en/services/environment/weather/climatechange/climate-plan/climate-plan-overview/emissions-reduction-2030.html)** across all modes of transportation. 
+As part of [2050 net zero emission commitment](https://www.canada.ca/en/services/environment/weather/climatechange/climate-plan/net-zero-emissions-2050.html), Canada has a mandate to transition to electric vehicles (EVs) to decarbonize transportation. There is also a goal reduce 40-45% of emissions below 2005 levels by 2030 through the **[2030 Emissions Reduction Plan](https://www.canada.ca/en/services/environment/weather/climatechange/climate-plan/climate-plan-overview/emissions-reduction-2030.html)** across all modes of transportation. 
 
 While modern electric vehicles (EVs) can travel long distances, inadequate fast-charging options, charger unreliability, and increased trip planning requirements can make visiting remote recreational areas challenging.
 
