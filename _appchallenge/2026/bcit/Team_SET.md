@@ -18,7 +18,7 @@ members:  # for each member:
     bio: "(left) I’m a GIS Bachelor of Technology student at BCIT, with prior diplomas in Data Science and Biomedical Engineering Technology. I have worked with ultrasound and bronchoscope systems in medical imaging, which sparked my interest in image analysis. That interest led me from medical imaging into aerial imagery and eventually GIS. Currently, in my practicum, I’m developing a deep learning workflow in ArcGIS Pro to detect and inventory pavement markings from high-resolution imagery, with a focus on real-world transportation applications."
 
 demo:
-  url: "https://storymaps.arcgis.com/stories/ecc59272e08e41b19f9caa16f3c792f4"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
+  url: "https://experience.arcgis.com/experience/35ba482f3bf44513b414b035370c3377"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
   github: no # if "yes", the url above is presumed to be a path relative to the gh_pages URL for the team in GitHub...otherwise, a full URL is expected.
   hidden: no  # "yes" if this app does not really have a live demo (e.g., mobile/AppStudio apps)
 
