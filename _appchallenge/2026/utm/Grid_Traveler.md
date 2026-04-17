@@ -50,16 +50,32 @@ Hosted in ArcGIS Online:
 
 ## Mission Statement
 
+### Background
+
+#### The Canada Strong Pass Initiative
+
+Since 2025, the Government of Canada has introduced the Canada Strong Pass, a seasonal, recurring initiative that offers visitors with free admission to places operated by Parks Canada during the summer months between June and September, and occasionally for holiday periods. These places include destinations such as national parks, historic sites, national museums that are waiting for us to discover.
+
+#### The Dilemma: Traveling to Remote Areas Sustainably and Confidently Without Range Anxiety
+
+As part of 2050 net zero emission commitment, Canada has a mandate to transition to electric vehicles (EVs) to decarbonize transportation. There is also a goal reduce 40-45% of emissions below 2005 levels by 2030 through the 2030 Emissions Reduction Plan across all modes of transportation.
+
+While modern electric vehicles (EVs) can travel long distances, inadequate fast-charging options, charger unreliability, and increased trip planning requirements can make visiting remote recreational areas challenging.
+
+Many EV drivers are climate and sustainability conscious. Some may be deterred from visiting remote destinations such as national parks that require long drives due to underdeveloped charging infrastructure in remote areas and range anxiety (Sayarshad, 2024). Furthermore, there have also been reports of some EV drivers experiencing sub-optimal experience with in-car navigation system not finding or incorrectly listing charging stations.
+The fear and the feeling of uncertainty that drivers have towards locating and having the assurance that EV charging stations are available and ready inspired us to create GridTraveler to overcome these emotions. The development of this application provides a platform to spark conversations on sustainable transportation in the context of national park tourisms.
+
+### Our Mission
 Our mission is threefold:
 
-### **1 | Help EV drivers plan their road trips with confidence**
+#### **1 | Help EV drivers plan their road trips with confidence**
 
 By offering a map application that combines data related to popular Parks Canada destinations, EV charging options, stopovers and features enroute, we help you plan road trips across Canada to lower range anxiety and identify attractions that are EV friendly versus those that require some extra planning.
 
-### **2 | Raise awareness on the vast network of EV charging stations available as well as remote areas that could benefit from further development of EV charging options**
+#### **2 | Raise awareness on the vast network of EV charging stations available as well as remote areas that could benefit from further development of EV charging options**
 
 So that they could become more accessible to visitors who choose to travel with zero carbon footprint. And before that, alternatives options that visitors have to help them visit these locations with alternative modes of transportation while being kind to our environment. 
 
-### **3 | Showcase 100 parks across Canada**
+#### **3 | Showcase 100 parks across Canada**
 
 Their whereabouts and the latest visitation statistics. 
