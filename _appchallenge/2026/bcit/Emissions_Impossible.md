@@ -19,7 +19,7 @@ members:  # for each member:
   
 
 demo:
-  url: "https://www.arcgis.com/home/item.html?id=d15ffa9ee8b840df879277635594d149"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
+  url: "https://experience.arcgis.com/experience/d15ffa9ee8b840df879277635594d149"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
   github: no # if "yes", the url above is presumed to be a path relative to the gh_pages URL for the team in GitHub...otherwise, a full URL is expected.
   hidden: no  # "yes" if this app does not really have a live demo (e.g., mobile/AppStudio apps)
 
@@ -54,7 +54,7 @@ docs: # Some teams will provide multiple documents...with the exception of the R
 
 Hosted in ArcGIS Online:
 
-- [https://www.arcgis.com/home/item.html?id=d15ffa9ee8b840df879277635594d149](https://www.arcgis.com/home/item.html?id=d15ffa9ee8b840df879277635594d149)
+- [https://experience.arcgis.com/experience/d15ffa9ee8b840df879277635594d149](https://experience.arcgis.com/experience/d15ffa9ee8b840df879277635594d149)
 
 ---
 
