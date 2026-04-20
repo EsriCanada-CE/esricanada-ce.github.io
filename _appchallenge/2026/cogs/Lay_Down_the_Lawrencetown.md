@@ -21,8 +21,8 @@ members:  # for each member:
     photo: adam.jpg  # if team provided individual images, the image named here should exist in the images folder in the team's repo.
 
 demo:
-  url: "https://experience.arcgis.com/experience/117f404f6c914efbb4b236f6ed05fbc3"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
-  github: no # if "yes", the url above is presumed to be a path relative to the gh_pages URL for the team in GitHub...otherwise, a full URL is expected.
+  url: "app/"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
+  github: yes # if "yes", the url above is presumed to be a path relative to the gh_pages URL for the team in GitHub...otherwise, a full URL is expected.
   hidden: no  # "yes" if this app does not really have a live demo (e.g., mobile/AppStudio apps)
 
 docs: # Some teams will provide multiple documents...with the exception of the README.md, these are generally expected to be in a docs/ subfolder of their repo
@@ -48,9 +48,9 @@ docs: # Some teams will provide multiple documents...with the exception of the R
 # winner: 1
 ---
 
-Hosted in ArcGIS Online:
+Hosted on GitHub:
 
-- [https://experience.arcgis.com/experience/117f404f6c914efbb4b236f6ed05fbc3](https://experience.arcgis.com/experience/117f404f6c914efbb4b236f6ed05fbc3)
+- [https://esricanada-ce.github.io/ecce-app-challenge-2026/Lay_Down_the_Lawrencetown/app/](https://esricanada-ce.github.io/ecce-app-challenge-2026/Lay_Down_the_Lawrencetown/app/)
 
 ---
 
