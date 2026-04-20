@@ -21,7 +21,7 @@ members:  # for each member:
     photo: connor.jpg  # if team provided individual images, the image named here should exist in the images folder in the team's repo.
 
 demo:
-  url: "https://www.arcgis.com/home/item.html?id=3c04861732d34e3f95d6908ceb81540f"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
+  url: "https://www.arcgis.com/apps/dashboards/3c04861732d34e3f95d6908ceb81540f"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
   github: no # if "yes", the url above is presumed to be a path relative to the gh_pages URL for the team in GitHub...otherwise, a full URL is expected.
   hidden: no  # "yes" if this app does not really have a live demo (e.g., mobile/AppStudio apps)
 
@@ -38,7 +38,7 @@ docs: # Some teams will provide multiple documents...with the exception of the R
 
 Hosted in ArcGIS Online:
 
-- [https://www.arcgis.com/home/item.html?id=3c04861732d34e3f95d6908ceb81540f](https://www.arcgis.com/home/item.html?id=3c04861732d34e3f95d6908ceb81540f)
+- [https://www.arcgis.com/apps/dashboards/3c04861732d34e3f95d6908ceb81540f](https://www.arcgis.com/apps/dashboards/3c04861732d34e3f95d6908ceb81540f)
 
 ---
 
