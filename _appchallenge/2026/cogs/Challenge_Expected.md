@@ -21,7 +21,7 @@ members:  # for each member:
     photo: yifan.jpg  # if team provided individual images, the image named here should exist in the images folder in the team's repo.
 
 demo:
-  url: "https://www.arcgis.com/home/group.html?id=b7db0b2d43f349fba0a04f6a1b9f55c6"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
+  url: "https://experience.arcgis.com/experience/a51cb602e9874b3db27c94ce6f177b7d"  # A relative path if hosted from the team's folder in the GitHub repo, otherwise a full url (and specify "no" for the github property below)
   github: no # if "yes", the url above is presumed to be a path relative to the gh_pages URL for the team in GitHub...otherwise, a full URL is expected.
   hidden: no  # "yes" if this app does not really have a live demo (e.g., mobile/AppStudio apps)
 
@@ -39,7 +39,7 @@ docs: # Some teams will provide multiple documents...with the exception of the R
 
 Hosted in ArcGIS Online:
 
-- [https://www.arcgis.com/home/group.html?id=b7db0b2d43f349fba0a04f6a1b9f55c6](https://www.arcgis.com/home/group.html?id=b7db0b2d43f349fba0a04f6a1b9f55c6)
+- [https://experience.arcgis.com/experience/a51cb602e9874b3db27c94ce6f177b7d](https://experience.arcgis.com/experience/a51cb602e9874b3db27c94ce6f177b7d)
 
 ---
 
