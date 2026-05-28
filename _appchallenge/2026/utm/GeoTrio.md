@@ -33,7 +33,7 @@ docs: # Some teams will provide multiple documents...with the exception of the R
     ishtml: no # yes if the file is an HTML document
 
 # when ready, mark the winners/runners-up with the following property (1, 2 or 3 for winners and first/second runners-up):
-# winner: 1
+winner: 3
 ---
 
 Hosted on GitHub:
